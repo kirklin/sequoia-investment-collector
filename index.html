@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>红杉中国投资的优秀企业</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        sequoia: {
+                            red: '#21513F',
+                            dark: '#241f1f',
+                            light: '#f9f5f5',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap');
+        body {
+            font-family: 'Noto Sans SC', sans-serif;
+            background-color: #f9f5f5;
+        }
+        .bento-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 2rem;
+        }
+        .card {
+            border-radius: 0.75rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+            transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+            overflow: hidden;
+            position: relative;
+            border: 1px solid rgba(0,0,0,0.05);
+        }
+        .card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 15px 30px -5px rgba(0, 0, 0, 0.1), 0 4px 10px -2px rgba(0, 0, 0, 0.05);
+        }
+        .card:after {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 0;
+            height: 3px;
+            background-color: #21513F;
+            transition: width 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+        }
+        .card:hover:after {
+            width: 100%;
+            left: 0;
+            right: auto;
+        }
+        .industry-badge {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background-color: rgba(255,255,255,0.85);
+            color: #21513F;
+            font-size: 0.75rem;
+            font-weight: 500;
+            padding: 0.25rem 0.75rem;
+            border-radius: 999px;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+            z-index: 10;
+            backdrop-filter: blur(4px);
+            transition: all 0.3s ease;
+        }
+        .card:hover .industry-badge {
+            background-color: #21513F;
+            color: white;
+        }
+        .loader {
+            border: 4px solid rgba(33, 81, 63, 0.1);
+            border-top: 4px solid #21513F;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 2s linear infinite;
+            margin: 2rem auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .filter-btn {
+            padding: 0.5rem 1rem;
+            border-radius: 0.375rem;
+            font-size: 0.875rem;
+            font-weight: 500;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            border: 1px solid transparent;
+        }
+        .filter-btn.active {
+            background-color: #21513F;
+            color: white;
+        }
+        .filter-btn:not(.active) {
+            background-color: white;
+            color: #333;
+            border-color: rgba(0,0,0,0.1);
+        }
+        .filter-btn:not(.active):hover {
+            border-color: #21513F;
+            color: #21513F;
+            transform: translateY(-2px);
+        }
+        .company-description {
+            max-height: 2.5rem;
+            overflow: hidden;
+            transition: max-height 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .company-description.expanded {
+            max-height: 20rem;
+        }
+        .read-more {
+            color: #21513F;
+            font-weight: 500;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            transition: all 0.3s ease;
+        }
+        .read-more:hover {
+            text-decoration: underline;
+        }
+        .read-more i {
+            margin-left: 0.25rem;
+            transition: transform 0.3s ease;
+        }
+        .read-more.expanded i {
+            transform: rotate(180deg);
+        }
+        .website-link {
+            display: inline-flex;
+            align-items: center;
+            color: #21513F;
+            font-weight: 500;
+            padding: 0.375rem 0.75rem;
+            border-radius: 0.375rem;
+            border: 1px solid #21513F;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            font-size: 0.875rem;
+        }
+        .website-link:hover {
+            background-color: #21513F;
+            color: white;
+            transform: translateY(-2px);
+        }
+        .website-link i {
+            margin-left: 0.5rem;
+        }
+        .data-note {
+            display: inline-block;
+            background-color: rgba(33, 81, 63, 0.1);
+            color: #21513F;
+            padding: 0.375rem 0.75rem;
+            border-radius: 0.375rem;
+            font-size: 0.875rem;
+            margin-left: 1rem;
+            border: 1px dashed rgba(33, 81, 63, 0.3);
+        }
+        .data-note i {
+            margin-right: 0.375rem;
+            color: #21513F;
+        }
+        .slogan-text {
+            font-size: 4rem;
+            font-weight: bold;
+            letter-spacing: -0.02em;
+            line-height: 1.2;
+            background: linear-gradient(135deg, #fff 0%, #ddd 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            transform: translateZ(0);
+            animation: fadeInUp 1s ease-out;
+        }
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        .slogan-container {
+            background: linear-gradient(135deg, #21513F 0%, #1a3d2f 100%);
+            position: relative;
+            overflow: hidden;
+        }
+        .slogan-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url('data:image/svg+xml,<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="40" stroke="rgba(255,255,255,0.05)" stroke-width="1" fill="none" /></svg>') repeat;
+            animation: panBackground 60s linear infinite;
+        }
+        @keyframes panBackground {
+            from {
+                background-position: 0% 0%;
+            }
+            to {
+                background-position: 100% 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="bg-white border-b border-gray-200">
+        <div class="container max-w-7xl mx-auto px-4 py-5 flex justify-between items-center">
+            <div class="flex items-center space-x-3">
+                <h1 class="text-2xl font-bold text-gray-900">红杉中国投资的优秀企业</h1>
+            </div>
+            <div class="text-sm text-gray-500">个人数据研究工具</div>
+        </div>
+    </header>
+
+    <div class="slogan-container py-16">
+        <div class="container max-w-5xl mx-auto px-4 text-center relative z-10">
+            <p class="slogan-text">你们改变世界</p>
+            <p class="text-white text-lg mt-4 opacity-80">汇聚创新者，塑造未来</p>
+        </div>
+    </div>
+
+    <div class="container max-w-7xl mx-auto px-4 py-8">
+        <div class="mb-8">
+            <div class="flex flex-wrap items-center mb-4">
+                <h3 class="text-xl font-medium text-gray-700">按行业筛选</h3>
+                <div class="data-note">
+                    <i class="fas fa-info-circle"></i>数据仅展示部分企业
+                </div>
+            </div>
+            <div class="flex flex-wrap gap-2" id="industry-filters">
+                <button class="filter-btn active" data-industry="all">全部企业</button>
+                <button class="filter-btn" data-industry="科技">科技</button>
+                <button class="filter-btn" data-industry="消费">消费</button>
+                <button class="filter-btn" data-industry="医疗">医疗健康</button>
+                <button class="filter-btn" data-industry="">未分类</button>
+            </div>
+        </div>
+        
+        <div id="loading" class="loader"></div>
+        
+        <div id="companies-container" class="bento-grid"></div>
+    </div>
+
+    <footer class="bg-gray-900 text-white py-10">
+        <div class="container max-w-7xl mx-auto px-4">
+            <div class="text-center">
+                <p class="mb-2">红杉中国投资组合展示 - 个人研究用途</p>
+                <p class="text-xs text-gray-500 mt-2">免责声明：本站仅作个人学习研究使用，所有数据来源于公开渠道，如有侵权请联系删除。</p>
+                <div class="mt-4 flex justify-center items-center">
+                    <a href="https://github.com/kirklin" target="_blank" class="text-gray-400 hover:text-white transition-colors duration-300 flex items-center">
+                        <i class="fab fa-github mr-2"></i>Kirk Lin's GitHub
+                    </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const companiesContainer = document.getElementById('companies-container');
+            const loading = document.getElementById('loading');
+            const industryFilters = document.getElementById('industry-filters');
+            let allCompanies = [];
+
+            // 筛选功能
+            function setupFilters() {
+                const buttons = industryFilters.querySelectorAll('.filter-btn');
+                buttons.forEach(button => {
+                    button.addEventListener('click', () => {
+                        // 移除所有按钮的active类
+                        buttons.forEach(btn => btn.classList.remove('active'));
+                        // 给当前按钮添加active类
+                        button.classList.add('active');
+                        // 根据行业筛选公司
+                        const industry = button.dataset.industry;
+                        filterCompanies(industry);
+                    });
+                });
+            }
+
+            function filterCompanies(industry) {
+                companiesContainer.innerHTML = '';
+                let filteredCompanies = allCompanies;
+                
+                // 如果不是"全部"，就按行业筛选
+                if (industry !== 'all') {
+                    filteredCompanies = allCompanies.filter(company => company.industry === industry);
+                }
+                
+                // 如果没有符合条件的公司
+                if (filteredCompanies.length === 0) {
+                    companiesContainer.innerHTML = `<p class="text-center col-span-full text-gray-500 py-10">没有找到相关行业的公司</p>`;
+                    return;
+                }
+                
+                // 显示筛选后的公司
+                renderCompanies(filteredCompanies);
+            }
+
+            function renderCompanies(companies) {
+                companies.forEach(company => {
+                    const card = document.createElement('div');
+                    card.className = 'card bg-white';
+                    
+                    // 默认图片用于无法加载的logo
+                    const logoUrl = company.logo_url || 'https://via.placeholder.com/150?text=无图片';
+                    
+                    card.innerHTML = `
+                        <div class="industry-badge">${company.industry || '未分类'}</div>
+                        <div class="relative h-40 bg-white flex items-center justify-center p-4">
+                            <img src="${logoUrl}" alt="${company.name}" class="max-h-full max-w-full object-contain" onerror="this.src='https://via.placeholder.com/150?text=无图片'">
+                        </div>
+                        <div class="p-6 border-t">
+                            <h2 class="text-xl font-bold mb-3 truncate">${company.name}</h2>
+                            <div class="company-description" id="desc-${company.id}">
+                                <p class="text-gray-600 text-sm">${company.description || '暂无描述'}</p>
+                            </div>
+                            <div class="read-more mt-2" data-id="${company.id}">
+                                展开 <i class="fas fa-chevron-down text-xs"></i>
+                            </div>
+                            <div class="flex justify-between items-center mt-4">
+                                <span class="text-xs text-gray-400">ID: ${company.id}</span>
+                                ${company.url ? `<a href="${company.url}" target="_blank" class="website-link">去官网 <i class="fas fa-external-link-alt text-xs"></i></a>` : ''}
+                            </div>
+                        </div>
+                    `;
+                    
+                    companiesContainer.appendChild(card);
+                });
+
+                // 设置展开/收起功能
+                setupReadMore();
+            }
+
+            function setupReadMore() {
+                const readMoreButtons = document.querySelectorAll('.read-more');
+                readMoreButtons.forEach(button => {
+                    button.addEventListener('click', () => {
+                        const id = button.dataset.id;
+                        const descElement = document.getElementById(`desc-${id}`);
+                        
+                        if (descElement.classList.contains('expanded')) {
+                            descElement.classList.remove('expanded');
+                            button.classList.remove('expanded');
+                            button.innerHTML = '展开 <i class="fas fa-chevron-down text-xs"></i>';
+                        } else {
+                            descElement.classList.add('expanded');
+                            button.classList.add('expanded');
+                            button.innerHTML = '收起 <i class="fas fa-chevron-up text-xs"></i>';
+                        }
+                    });
+                });
+            }
+
+            fetch('scraper_checkpoint.json')
+                .then(response => response.json())
+                .then(data => {
+                    loading.style.display = 'none';
+                    
+                    // 获取所有公司数据
+                    allCompanies = data.companies || [];
+                    if (allCompanies.length === 0) {
+                        companiesContainer.innerHTML = '<p class="text-center col-span-full">没有找到公司数据</p>';
+                        return;
+                    }
+
+                    // 按ID排序
+                    allCompanies.sort((a, b) => {
+                        return parseInt(a.id) - parseInt(b.id);
+                    });
+
+                    // 初始化筛选器
+                    setupFilters();
+                    
+                    // 默认显示所有公司
+                    renderCompanies(allCompanies);
+                })
+                .catch(error => {
+                    loading.style.display = 'none';
+                    console.error('加载数据出错:', error);
+                    companiesContainer.innerHTML = `<p class="text-center col-span-full text-red-500">加载数据出错: ${error.message}</p>`;
+                });
+        });
+    </script>
+</body>
+</html> 

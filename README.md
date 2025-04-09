@@ -26,7 +26,7 @@
 curl -sSf https://astral.sh/uv/install.sh | sh
 
 # 克隆仓库
-git clone https://github.com/yourusername/sequoia-investment-collector.git
+git clone https://github.com/kirklin/sequoia-investment-collector.git
 cd sequoia-investment-collector
 
 # 创建虚拟环境并安装依赖
