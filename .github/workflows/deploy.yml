@@ -1,0 +1,50 @@
+name: 部署到GitHub Pages
+
+on:
+  push:
+    branches:
+      - master # 当推送到master分支时触发工作流
+    paths:
+      - 'index.html'
+      - 'scraper_checkpoint.json'
+
+# 设置GITHUB_TOKEN的权限
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 只允许一个并发部署
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  # Single deploy job since we're just deploying
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      
+      - name: 创建发布目录
+        run: |
+          mkdir -p dist
+          cp index.html dist/
+          cp scraper_checkpoint.json dist/
+      
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # 只上传包含必要文件的目录
+          path: 'dist'
+      
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
