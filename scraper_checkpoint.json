@@ -1,0 +1,1131 @@
+{
+  "last_id": 2682,
+  "companies": [
+    {
+      "id": "1018",
+      "name": "AMI Paris",
+      "description": "AMI于2011年诞生于巴黎，从品牌创建伊始就不断地从这座城市获得灵感。AMI在法语中意为“朋友”，代表着一种轻松、真实、友好的奢侈时尚理念。品牌致力于为男士和女士提供时尚和全面的衣橱选择，打破时髦与休闲的边界。AMI创始人和创意总监Alexandre Mattiussi曾获ANDAM大奖。",
+      "industry": "消费",
+      "url": "http://www.amiparis.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/84-AMI.png",
+      "logo_path": "company_logos/1018_AMI_Paris.png"
+    },
+    {
+      "id": "990",
+      "name": "Beam Therapeutics",
+      "description": "Beam Therapeutics是一家美国精确基因药物研发商。",
+      "industry": "医疗",
+      "url": "https://beamtx.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/56-Beam-Therapeutics.png",
+      "logo_path": "company_logos/990_Beam_Therapeutics.png"
+    },
+    {
+      "id": "935",
+      "name": "Boss直聘",
+      "description": "BOSS直聘成立于2014年，是目前国内平均月度活跃用户数（MAU）最大的在线招聘平台。BOSS直聘率先引入了一种改变中国在线招聘业的颠覆性模式——直聘模式，促进了boss和求职者之间的即时直接聊天，为双方提供精准的推荐，并由强大的人工智能算法和大数据洞察提供支持。",
+      "industry": "科技",
+      "url": "https://www.zhipin.com",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/1BOSS直聘.png",
+      "logo_path": "company_logos/935_Boss直聘.png"
+    },
+    {
+      "id": "937",
+      "name": "Canva",
+      "description": "Canva是全球最大的在线平面设计平台，首创拖拽式设计工具，2013年诞生于澳大利亚。秉承“赋予全世界设计的力量”的使命，至今Canva已拥有全球1亿用户，平均每秒有20个设计在Canva上诞生。",
+      "industry": "科技",
+      "url": "http://www.canva.cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/3-Canva.png",
+      "logo_path": "company_logos/937_Canva.png"
+    },
+    {
+      "id": "2331",
+      "name": "Delivery Hero",
+      "description": "Delivery Hero 是一家德国跨国在线食品订购和食品配送公司，总部位于德国柏林。该公司成立于 2011 年，业务遍及欧洲、亚洲、非洲、拉丁美洲、南美洲以及中东等国际 70 多个国家，并与 500,000 多家餐厅合作。",
+      "industry": "科技",
+      "url": "https://www.deliveryhero.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2023/12/delivery-hero.jpg",
+      "logo_path": "company_logos/2331_Delivery_Hero.jpg"
+    },
+    {
+      "id": "1019",
+      "name": "Fiture",
+      "description": "作为家庭科技健身方式的引领者， FITURE致力于前沿的智能科技融入运动与健康领域，以更具创新和个性化的内容服务每一位消费者，成为用户随时随地的专属运动教练和最真诚的运动伙伴， 让每个人都可以在运动中收获身心自由，更能自在享受生活。",
+      "industry": "消费",
+      "url": "https://www.fiture.com/us",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/85-Fiture.png",
+      "logo_path": "company_logos/1019_Fiture.png"
+    },
+    {
+      "id": "940",
+      "name": "PingCAP",
+      "description": "PingCAP 成立于 2015 年，是一家企业级开源分布式数据库厂商，提供包括开源分布式数据库产品、解决方案与咨询、技术支持与培训认证服务，致力于为全球行业用户提供稳定高效、安全可靠、开放兼容的新型数据服务平台，解放企业生产力，加速企业数字化转型升级。在帮助企业释放增长空间的同时，也提供了一份具有高度可参考性的开源建设实践样本。由 PingCAP 创立的分布式关系型数据库 TiDB，为企业关键业务打造，具备「分布式强一致事务、在线弹性水平扩展、故障自恢复的高可用、跨数据中心多活」等企业级核心特性，帮助企业最大化发挥数据价值，充分释放企业增长空间。",
+      "industry": "科技",
+      "url": "https://cn.pingcap.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/6-PingCAP.png",
+      "logo_path": "company_logos/940_PingCAP.png"
+    },
+    {
+      "id": "1020",
+      "name": "SHEIN",
+      "description": "SHEIN是一个国际B2C快速时尚电子商务平台。",
+      "industry": "消费",
+      "url": "http://us.shein.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/86-SHEIN.png",
+      "logo_path": "company_logos/1020_SHEIN.png"
+    },
+    {
+      "id": "941",
+      "name": "SSENSE",
+      "description": "SSENSE（发音为“es-uhns”）是一个集文化、社区和商业运营为一体的全球性技术平台，总部位于蒙特利尔。平台囊括女装、男装、儿童日常和“更多” (Everything Else™) 等品类，汇集各种知名及新兴奢侈品牌。作为电子商务引擎的 SSENSE 广受推崇，其在文化内容上的产出亦备受赞誉。网站平均每月收获 1 亿次页面浏览量，大约 80% 的受众年龄在 18 至 40 岁之间。SSENSE 是一家私人企业，自成立以来实现了高达两位数的年增长和盈利。",
+      "industry": "科技",
+      "url": "http://www.ssense.com/zh-cn",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/7-SSENSE.png",
+      "logo_path": "company_logos/941_SSENSE.png"
+    },
+    {
+      "id": "942",
+      "name": "Toss",
+      "description": "Toss的任务是解决韩国金融方面的不便之处。",
+      "industry": "科技",
+      "url": "https://toss.im/en",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/8-Toss.png",
+      "logo_path": "company_logos/942_Toss.png"
+    },
+    {
+      "id": "1022",
+      "name": "Urban Revivo",
+      "description": "URBAN REVIVO（简称：UR）——快奢时尚创领者。",
+      "industry": "消费",
+      "url": "https://urbanrevivo.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/88-urban-revivo.png",
+      "logo_path": "company_logos/1022_Urban_Revivo.png"
+    },
+    {
+      "id": "1023",
+      "name": "WE11DONE",
+      "description": "WE11DONE 由权多美（Dami Kwon）与郑惠珍（Jessica Jung）共同创立，两人既是潮流创造者，也是相识一生的挚友。\r\nWE11DONE的品牌关于一支年轻的韩国创意力量在世界各地掀起新浪潮的故事。由创始之初11人的团队开始，他们大胆开辟新征程，透过每一个系列中巧妙设计的冲突碰撞彰显其探索精神。",
+      "industry": "消费",
+      "url": "https://we11-done.com",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/89WE11DONE.png",
+      "logo_path": "company_logos/1023_WE11DONE.png"
+    },
+    {
+      "id": "943",
+      "name": "阿里巴巴",
+      "description": "阿里巴巴经营多个领先的网上及移动平台，业务覆盖零售和批发贸易及云计算等，向消费者、商家及其他参与者提供技术和服务，让他们在由阿里巴巴搭建的生态系统里进行商贸活动。",
+      "industry": "科技",
+      "url": "https://www.alibabagroup.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/9-Alibaba阿里巴巴.png",
+      "logo_path": "company_logos/943_阿里巴巴.png"
+    },
+    {
+      "id": "989",
+      "name": "艾康特",
+      "description": "艾康特医疗成立于2018年，专注于眼视光领域医疗器械全套解决方案的研发和生产。公司研发产品管线近20个产品，目前在上海、珠海、杭州等地拥有配置完备的医疗器械研发和生产设施。公司目前全职员工约170人，研发人员占比超过40%。凭借国际化视野和创新产品矩阵，艾康特致力于驱动中国眼视光器械领域的革新与进步。",
+      "industry": "医疗",
+      "url": "https://www.hongshan.com/companies/?id=989",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/55-VisionX艾康特.png",
+      "logo_path": "company_logos/989_艾康特.png"
+    },
+    {
+      "id": "2335",
+      "name": "爱奇艺",
+      "description": "爱奇艺于2010年4月22日正式上线，推崇品质、青春、时尚的品牌内涵如今已深入人心，网罗了全球广大的年轻用户群体，积极推动产品、技术、内容、营销等全方位创新。2018年3月29日，爱奇艺于纳斯达克上市，股票代码IQ。目前，爱奇艺已成功构建了包含短视频、游戏、移动直播、动漫画、小说、IP潮品、线下娱乐等业务在内、连接人与服务的娱乐内容生态，引领视频网站商业模式的多元化发展。",
+      "industry": "科技",
+      "url": "https://www.iqiyi.com",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2023/12/爱奇艺.jpg",
+      "logo_path": "company_logos/2335_爱奇艺.jpg"
+    },
+    {
+      "id": "1024",
+      "name": "百秋网络",
+      "description": "百秋，专注国际时尚领域的全域服务商。近十年来，百秋与多个国际时尚品牌建立长期合作关系，持续为国际时尚品牌提供整合线上线下全渠道的品牌咨询、店站运营、数字营销、仓储物流、IT解决方案和新零售等全链路服务。未来十年，百秋将以“重新定义零售行业新型中间商关系”为战略。",
+      "industry": "消费",
+      "url": "https://www.buyquickly.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/90-BuyQuickly百秋网络.png",
+      "logo_path": "company_logos/1024_百秋网络.png"
+    },
+    {
+      "id": "1025",
+      "name": "斑布",
+      "description": "四川环龙新材料有限公司是一家集生产、销售、品牌运营为一体的创新型企业。公司以“简单•适度”为品牌理念，开创了“斑布BABO”竹纤维本色生活用纸品牌，并在一年的时间内，将该品牌迅速拓展经营为全国竹纤维本色生活用纸引领者之一。",
+      "industry": "消费",
+      "url": "http://www.babo.cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/91-Bamboo斑布.png",
+      "logo_path": "company_logos/1025_斑布.png"
+    },
+    {
+      "id": "991",
+      "name": "贝达药业",
+      "description": "贝达药业股份有限公司成立于2003年，总部位于浙江杭州，是一家由海归高层次人才团队创办的、以自主知识产权创新药物研究和开发为核心，集研发、生产、市场销售于一体的高新制药企业。2016年11月7日，贝达药业在深圳证券交易所挂牌上市，股票代码：300558.SZ。公司自主研发了中国第一个小分子靶向抗癌药——盐酸埃克替尼（商品名：凯美纳®），2011年6月获批上市。上市以来已经有40多万名肺癌患者服用，获得中国专利金奖，斩获中国工业大奖，荣获我国化学制药行业和浙江省企业界唯一的国家科技进步一等奖。2020年11月，公司和控股子公司Xcovery共同开发的全新的、拥有完全自主知识产权的创新药——盐酸恩沙替尼胶囊（商品名：贝美纳®）正式获批上市，成为中国第一个用于治疗ALK突变晚期非小细胞肺癌的国产1类新药，填补了同类药物国产空白。2021年11月，公司与北京天广实生物技术股份有限公司合作开发的贝伐珠单抗注射液（商品名：贝安汀®）正式获批上市，获批适应症为转移性结直肠癌和晚期、转移性或复发性非小细胞肺癌。贝安汀®成为公司首个获批的大分子生物制品、第三个上市药物。公司针对恶性肿瘤、糖尿病等严重影响人类健康的重大疾病，持续增加新药研发投入， 自2019年开始研发投入占比都在40%及以上。目前有在研创新药项目40余项，18项进入临床试验，4项正在开展Ⅲ期临床试验。",
+      "industry": "医疗",
+      "url": "https://www.bettapharma.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/57-Betta-贝达药业.png",
+      "logo_path": "company_logos/991_贝达药业.png"
+    },
+    {
+      "id": "1026",
+      "name": "贝咖",
+      "description": "Babycare 是设计师创立的母婴品牌。秉持「为爱 重新设计」的品牌理念，不断发现并改变行业中存在的不合理。以父母之心重新设计每一个产品，定义Z时代人群新的孕婴生活方式。现已在30多个国家，服务超4500万家庭。",
+      "industry": "消费",
+      "url": "https://www.babycare.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/92Babycare.png",
+      "logo_path": "company_logos/1026_贝咖.png"
+    },
+    {
+      "id": "944",
+      "name": "贝壳找房",
+      "description": "作为居住产业数字化服务平台，贝壳致力于推进居住服务的产业数字化、智能化进程，通过聚合、助力优质服务者，为中国家庭提供包括二手房交易、新房交易、租赁、家装、家居、家服等一站式、高品质、高效率服务，实现“对消费者好、帮助服务者对消费者好”。",
+      "industry": "科技",
+      "url": "https://bj.ke.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/10-Beike贝壳.png",
+      "logo_path": "company_logos/944_贝壳找房.png"
+    },
+    {
+      "id": "992",
+      "name": "贝泰妮",
+      "description": "云南贝泰妮生物科技集团股份有限公司成立于2010年，是一家集研发、生产和营销为一体，定位于皮肤健康互联网+的大健康产业集团。公司于2021年3月25日登陆深交所创业板，股票代码300957，为中国功效性护肤品第一股。贝泰妮被认定为国家高新技术企业，公司研发中心开拓创新，实施产学研结合，紧密融合植物学、生物学、皮肤学等前沿科技，充分挖掘云南特色植物的有效活性成分，研发新一代功效性护肤品。公司旗下护肤品牌“薇诺娜”自诞生以来，运用多项专利技术，采用基于皮肤学级的温和配方，以符合美国、欧盟化妆品要求的GMPC标准进行生产，产品的安全性、有效性得到皮肤学界专业人士及消费者的广泛认可。通过线下医药渠道打基础、线上全网覆盖的渠道策略，贝泰妮自成立以来每年均实现高速增长。借助互联网和人工智能新技术，贝泰妮打造了新零售全触点系统，成功跨界实现OMO营销，成为中国大健康产业互联网+的领先企业。基于公司卓越的研发实力及差异化的营销模式，凭借多年皮肤护理的专业态度，以无限拥抱互联网的胸襟胆略，贝泰妮厚积薄发，专注打造皮肤健康生态的崭新未来。",
+      "industry": "医疗",
+      "url": "https://www.botanee.com.cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/58-Botanee贝泰妮.png",
+      "logo_path": "company_logos/992_贝泰妮.png"
+    },
+    {
+      "id": "945",
+      "name": "比亚迪股份",
+      "description": "比亚迪是一家致力于“用技术创新，满足人们对美好生活的向往”的高新技术企业。比亚迪成立于1995年2月，经过20多年的高速发展，已在全球设立30多个工业园，实现全球六大洲的战略布局。比亚迪业务布局涵盖电子、汽车、新能源和轨道交通等领域，并在这些领域发挥着举足轻重的作用，从能源的获取、存储，再到应用，全方位构建零排放的新能源整体解决方案, 比亚迪是香港和深圳上市公司。",
+      "industry": "科技",
+      "url": "https://www.bydglobal.com/cn/index.html",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/11-BYD.png",
+      "logo_path": "company_logos/945_比亚迪股份.png"
+    },
+    {
+      "id": "1021",
+      "name": "彼悦",
+      "description": "彼悦（Ubras）是一个女性内衣品牌，摒弃钢圈及厚海绵，自主研发了符合人体工学的可拆卸式专利水滴杯垫，并采用日本点状胶技术来代替传统的胶骨和车缝，致力于研发无压力、无束缚的女性内衣产品。",
+      "industry": "消费",
+      "url": "http://www.ubras.cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/87-Ubras.png",
+      "logo_path": "company_logos/1021_彼悦.png"
+    },
+    {
+      "id": "947",
+      "name": "达达",
+      "description": "达达-京东到家是中国领先的同城速递信息服务平台和无界零售即时消费平台。",
+      "industry": "消费",
+      "url": "https://about.imdada.cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/13-Dada达达.png",
+      "logo_path": "company_logos/947_达达.png"
+    },
+    {
+      "id": "948",
+      "name": "得物",
+      "description": "得物APP开创性的搭建移动互联网平台，在传统电商平台的基础上添加“正品鉴别服务”，让用户可以放心购买到品类丰富的正品运动潮流装备。",
+      "industry": "科技",
+      "url": "https://www.dewu.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/14-Dewu得物.png",
+      "logo_path": "company_logos/948_得物.png"
+    },
+    {
+      "id": "1027",
+      "name": "德邦物流",
+      "description": "德邦物流是一家覆盖多元业务的综合物流供应商。",
+      "industry": "消费",
+      "url": "https://www.deppon.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/93-Deppon德邦物流.png",
+      "logo_path": "company_logos/1027_德邦物流.png"
+    },
+    {
+      "id": "993",
+      "name": "迪哲医药",
+      "description": "迪哲医药（股票代码：688192）是一家处于临床开发阶段的全球创新型生物医药企业，专注于恶性肿瘤和免疫性疾病领域，致力于开发具备差异化竞争优势的全球创新药。基于行业领先的转化科学和新药分子设计与筛选技术平台，公司已建立了具备全球竞争力的在研管线，其中两大领先产品已处于全球关键性临床试验阶段。",
+      "industry": "医疗",
+      "url": "http://www.dizalpharma.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/59-Dizal迪哲.png",
+      "logo_path": "company_logos/993_迪哲医药.png"
+    },
+    {
+      "id": "949",
+      "name": "叮咚买菜",
+      "description": "叮咚买菜是一款自营生鲜平台及提供配送服务的生活服务类APP。主要提供的产品有蔬菜、豆制品、水果、肉禽蛋、水产海鲜、米面粮油、休闲食品等。",
+      "industry": "科技",
+      "url": "https://www.100.me/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/15-Dingdong叮咚买菜.png",
+      "logo_path": "company_logos/949_叮咚买菜.png"
+    },
+    {
+      "id": "950",
+      "name": "东久新宜",
+      "description": "东久新宜是中国领先的新经济基础设施投资者及开发运营服务商，为新经济客户提供全方位一体化的基础设施运营服务与解决方案，满足其在研发、生产、仓储和总部办公等多样化的需求，助力中国产业升级与科技创新。东久新宜于2021年由东久与新宜合并成立。",
+      "industry": "消费",
+      "url": "https://www.dnegroup.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/16-DNE东久新宜.png",
+      "logo_path": "company_logos/950_东久新宜.png"
+    },
+    {
+      "id": "1028",
+      "name": "东鹏瓷砖",
+      "description": "东鹏控股股份有限公司是世界级的瓷砖、卫浴产品专业制造商和品牌商，为广大设计师和消费者提供低碳、环保、高科技和极具个性化的瓷砖卫浴产品。",
+      "industry": "消费",
+      "url": "http://www.dongpeng.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/94-Dongpeng东鹏瓷砖.png",
+      "logo_path": "company_logos/1028_东鹏瓷砖.png"
+    },
+    {
+      "id": "994",
+      "name": "多宁生物",
+      "description": "上海多宁生物科技股份有限公司成立于2005年，是中国领先的生物工艺解决方案提供商，致力于为客户提供生物制药产品从早期研发至后期商业化生产的一站式解决方案。多宁生物经营生物工艺解决方案、实验室产品和服务两大业务板块，涵盖生物工艺从上游到下游的所有关键步骤，技术及服务可应用于所有主要类型生物药的商业化。目前，多宁生物已成为众多知名制药公司、CRO/CDMO及科研机构的首选供应商之一，客户规模达千级。自2019年至今，多宁生物持续扩张版图，拓宽产品矩阵，并积极融入国际化产业链，对海外市场进行布局，陆续并购了广州齐志、亮黑科技、金科过滤、熙迈检测、安拓思、乐枫生物、楚博生物技术、Salus Bioscience及楚怡生物科技等公司，并先后完成了国际和业内知名投资机构领投的数亿元融资。多宁生物采取并购的方式，高效地整合生物工艺上下游流程及服务，并通过自主研发提升技术能力、丰富产品管线。目前，多宁生物可提供200多种产品，70多种服务，包括技术开发、检测及验证服务，全面覆盖客户的多样化及定制化需求。截至今日，多宁生物已成为国内唯一一家产品组合覆盖生物工艺所有主要步骤的生物工艺解决方案提供商。多宁生物将始终以“为客户提供一站式服务”为目标，服务生命科学，助力人类健康。",
+      "industry": "医疗",
+      "url": "https://www.duoningbio.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/60-Duoning多宁生物.png",
+      "logo_path": "company_logos/994_多宁生物.png"
+    },
+    {
+      "id": "995",
+      "name": "菲鹏生物",
+      "description": "菲鹏生物股份有限公司成立于2001年，是行业领先的体外诊断平台型企业，着眼于人们对健康管理的未来需求和生物技术发展的趋势，为全球体外诊断企业提供具备出色性能表现的IVD试剂核心原料、试剂解决方案和开放仪器平台。二十余年来，菲鹏生物持续深耕行业上游，累计申请640余件国内外专利，自主研发推出体外诊断试剂原料产品超1300个。近年来，菲鹏生物国际业务占比约40%，产品销往欧洲、美洲、亚洲、澳洲、非洲等61个国家和地区，赢得了全球1500多家体外诊断企业客户的信赖与长期支持。未来，菲鹏生物将不断促进行业内的资源协同，价值共享，以诊断平台生态的形式与合作伙伴共同推进诊断产业的发展，实现“让诊断更早、更准、更便捷、更普惠”的使命，让诊断技术的发展惠及更多人，造福人类健康事业。",
+      "industry": "医疗",
+      "url": "https://www.faponbiotech.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/61Fapon菲鹏生物.png",
+      "logo_path": "company_logos/995_菲鹏生物.png"
+    },
+    {
+      "id": "2582",
+      "name": "辐联科技",
+      "description": "辐联科技有限公司（“辐联科技”）是一家全面整合的国际化放射性治疗公司，在比利时、德国和中国均设有办事处。辐联科技致力于打造拥有放射性药物研发、生产和商业化的全产业链核药公司以造福全球患者，并计划通过针对未来治疗方法的创新研究来解决目前影响放射性药物研发的核心问题。辐联科技的团队中不乏经验丰富的企业家和科学家，他们既擅长管理生物医药公司，也深谙放射性同位素的研究和临床开发方法。",
+      "industry": "医疗",
+      "url": "https://www.full-life.com/cn",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2024/05/full-life-LOGO-White.png",
+      "logo_path": "company_logos/2582_辐联科技.png"
+    },
+    {
+      "id": "951",
+      "name": "富途",
+      "description": "富途证券是一家为投资者提供美股和港股交易服务的互联网券商，拥有一站式的金融交易平台富途牛牛，支持A股、港股、美股，覆盖PC, MAC iOS, Android。",
+      "industry": "科技",
+      "url": "https://www.futuhk.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/17-Futu富途.png",
+      "logo_path": "company_logos/951_富途.png"
+    },
+    {
+      "id": "2352",
+      "name": "甘源",
+      "description": "甘源食品股份有限公司成立于2006年，总部设在江西萍乡，员工2000余人，是一家集研发、生产、销售为一体的现代化休闲食品企业，2020年正式登陆A股（股票代码：002991）。公司布局南北两大现代化生产基地，产能辐射全国。南方生产基地位于江西萍乡，年产量超5万吨，占地300余亩，厂房面积18万平方米。北方生产基地位于河南安阳，占地面积328亩，总建设面积14万平米，2021年10月实现部分投产。目前，公司覆盖坚果炒货、豆果套餐、果脯蜜饯、膨化小食等多品类产品组合，一年畅销16亿包，经典三样：青豌豆、蚕豆、瓜子仁深受消费者喜爱。十余年的深耕与沉淀， “甘源”已成为国内领先的休闲食品品牌。公司拥有健全的营销网络体系，与沃尔玛、家乐福、大润发等线下大型商超，以及天猫旗舰店、京东旗舰店、唯品会等多家线上直营渠道建立了良好的合作关系，并出口多个国家和地区。2014年3月，甘源天猫旗舰店正式上线，2020年销量为淘宝（含天猫）豆类制品销量第一。",
+      "industry": "消费",
+      "url": "https://www.ganyuanfood.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2023/12/甘源.jpg",
+      "logo_path": "company_logos/2352_甘源.jpg"
+    },
+    {
+      "id": "1029",
+      "name": "古茗",
+      "description": "2010年4月古茗成立，总部位于浙江温岭大溪。从创立至今，古茗一直保持市场份额成倍增长，历经12年稳步发展现已成为茶饮行业的头部品牌之一。自创立以来，一直致力于成为“每天一杯喝不腻”的日常化国民茶饮，让每一位消费者，随时随地都能喝到新鲜、真材实料的茶饮。",
+      "industry": "消费",
+      "url": "https://www.gumingnc.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/95-Goodme古茗.png",
+      "logo_path": "company_logos/1029_古茗.png"
+    },
+    {
+      "id": "2337",
+      "name": "瓜子二手车",
+      "description": "瓜子二手车，成立于2015年9月，致力于用创新重塑二手车产业， 为用户创造更大的价值。目前，瓜子二手车构建了严选直卖与全国购两大业务体系，为用户提供二手车检测定价、居间服务、汽车金融、跨区域流转、售后保障、维修保养等一站式服务。截至目前，瓜子二手车业务覆盖全国200多个主流城市。",
+      "industry": "科技",
+      "url": "https://www.guazi.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2023/12/瓜子二手车.jpg",
+      "logo_path": "company_logos/2337_瓜子二手车.jpg"
+    },
+    {
+      "id": "952",
+      "name": "海柔",
+      "description": "海柔创新(HAI ROBOTICS)是箱式仓储机器人系统的首创者和领航者，致力于通过机器人技术和人工智能算法，提供高效、智能、柔性、定制化的仓储自动化解决方案，为每个工厂和物流仓库创造价值。公司专注于箱式仓储机器人系统研发设计，实现机器人本体、底层定位算法、控制系统、机器人调度、智能仓储管理系统等核心元素的自主研发覆盖并已进行全球专利布局。旗下库宝系统(HAIPICK)已升级至第四代，是最早研发及投入商业使用的箱式仓储机器人系统，可助力仓库进行自动化管理，实现智能搬运、拣选、分拣，接受定制化需求。目前已在全球落地应用500+项目，广泛应用于鞋服、3PL、电商、电力、3C制造、医药、零售等各行业、多场景。",
+      "industry": "科技",
+      "url": "https://www.hairobotics.com",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/18-Hai海柔.png",
+      "logo_path": "company_logos/952_海柔.png"
+    },
+    {
+      "id": "1030",
+      "name": "火星人集成灶",
+      "description": "火星人厨具股份有限公司是一家以集成厨电为核心业务，“让厨房生活更健康”为使命的高新技术企业。",
+      "industry": "消费",
+      "url": "https://www.marssenger.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/96-Marssenger火星人集成灶.png",
+      "logo_path": "company_logos/1030_火星人集成灶.png"
+    },
+    {
+      "id": "953",
+      "name": "货拉拉",
+      "description": "货拉拉，业务方向定位为同城即时整车货运，意在整合社会运力资源，搭建快速、平价、安心、专业的同城货运交易平台。货主通过货拉拉平台，可以快速匹配附近的货车资源，并以低价获得优质的货运服务；广大货车司机亦可借助货拉拉迅速对接到客户需求，大大提升货车利用效率，进而获得更为丰厚的收入回报。",
+      "industry": "科技",
+      "url": "https://www.huolala.cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/19-Lalamove货拉拉.png",
+      "logo_path": "company_logos/953_货拉拉.png"
+    },
+    {
+      "id": "1033",
+      "name": "极兔速递",
+      "description": "J&T极兔速递是一家全球综合物流服务运营商，快递业务在全球规模最大及增长最快的东南亚和中国市场处于领先地位。",
+      "industry": "消费",
+      "url": "https://www.jtexpress.top/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/99-J_T极兔速递.png",
+      "logo_path": "company_logos/1033_极兔速递.png"
+    },
+    {
+      "id": "958",
+      "name": "嘉立创",
+      "description": "嘉立创成立于2006年，是行业较早实现数字化转型的高新技术企业之一，专注于PCB打样/小批量、SMT贴片、激光钢网等领域，为全球电子行业企业及电子工程师提供“价格优、品质高、交期快”的高性价比服务。",
+      "industry": "科技",
+      "url": "https://www.jlc.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/24-JLC-嘉立创.png",
+      "logo_path": "company_logos/958_嘉立创.png"
+    },
+    {
+      "id": "939",
+      "name": "4 Ecoflow正浩",
+      "description": "正浩创新是一家储能电池生产商，集工业设计、结构、软硬件、及电芯的开发于一体，为用户提供储能电池、电池管理系统等产品。",
+      "industry": "",
+      "url": "http://www.ecoflow.com/cn",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/4-EcoFlow正浩.png",
+      "logo_path": "company_logos/939_4_Ecoflow正浩.png"
+    },
+    {
+      "id": "954",
+      "name": "20 Jd京东",
+      "description": "京东（JD.com）正式成立于 2004 年，由京东集团首席执行官刘强东先生创立。京东为消费者提供愉悦的在线购物体验。通过内容丰富、人性化的网站 、移动客户端及微信、手机 QQ 一级购物入口等，京东以富有竞争力的价格，提供具有丰富品类及卓越品质的商品和服务，并且以快速可靠的方式送达消费者。目前，京东已成为中国最大的自营式电商企业，并跻身全球前十大互联网公司排行榜，旗下设有京东商城、京东金融、京东智能、京东到家及海外事业部。2014 年 5 月京东(NASDAQ: JD)在美国纳斯达克证券交易所正式挂牌上市。",
+      "industry": "",
+      "url": "https://www.jd.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/20-JD京东.png",
+      "logo_path": "company_logos/954_20_Jd京东.png"
+    },
+    {
+      "id": "955",
+      "name": "21 Jd Technology京东科技",
+      "description": "京东科技集团是京东集团旗下专注于以技术为产业服务的业务子集团，致力于为企业、金融机构、政府等各类客户提供全价值链的技术性产品与解决方案。依托人工智能、大数据、云计算、物联网等前沿科技能力，京东科技打造出了面向不同行业的产品和解决方案，以此帮助全社会各行业企业降低供应链成本，提升运营效率，成为值得产业信赖的数字合作伙伴。融合了原京东数科及云与AI两大技术业务板块，京东科技现已成为整个京东集团对外提供技术服务的核心输出平台，拥有丰富的产业理解力、深厚的风险管理能力、用户运营能力和企业服务能力，能面向不同行业为客户提供行业应用、产品开发与产业数字化服务。截至2020年6月末，在政府及其他客户服务领域，京东科技服务了超过40家城市公共服务机构，在全国建立了50多个城市云服务基地，此外也建立了庞大的线下物联网营销平台，拥有自营和联盟媒体点位数超过1,500万，覆盖全国超过300座城市以及6亿多人次；在金融机构服务领域，京东科技已为包括银行、保险、基金、信托、证券公司在内的超600家各类金融机构提供了多层次数字化解决方案；在商户与企业服务领域，已为超100万家小微商户、超20万家中小企业、超700家大型商业中心等提供了包括业务和技术在内的数字化解决方案。",
+      "industry": "",
+      "url": "https://www.jdt.com.cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/21-JD-Technology京东科技.png",
+      "logo_path": "company_logos/955_21_Jd_Technology京东科技.png"
+    },
+    {
+      "id": "956",
+      "name": "22 Jd Health京东健康",
+      "description": "京东健康是中国最大的在线医疗健康平台，也是医疗产业链数字化改造的领跑者，致力于打造以医药及健康产品供应为核心，医疗服务为抓手，数字驱动的用户全生命周期全场景的健康管理平台。其零售药房和在线医疗健康服务业务可以满足用户对于健康领域的各方面需求，让国民享有易得、便捷、优质和可负担的医疗健康产品与服务。",
+      "industry": "",
+      "url": "https://ir.jdhealth.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/22-JD-Health京东健康.png",
+      "logo_path": "company_logos/956_22_Jd_Health京东健康.png"
+    },
+    {
+      "id": "957",
+      "name": "23 Jd Business京东工业品",
+      "description": "京东工业品整合海量商品，满足客户一站式采购需求，从大数据、供应链服务、金融服务、企业级运营服务，来实现供采双方的精准对接和需求直达。京东工业品直接链接品牌商，保证中间无假货环节，打破工业品采购各个环节壁垒，构筑起数字化、平台化、智能化、生态化发展的新型采购技术平台，带动整个产业链全方位“智能+”演进。",
+      "industry": "",
+      "url": "https://mro.jd.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/23-JD-Business京东工业品.png",
+      "logo_path": "company_logos/957_23_Jd_Business京东工业品.png"
+    },
+    {
+      "id": "959",
+      "name": "25 Jst 聚水潭",
+      "description": "聚水潭成立于2014年，创始人兼CEO骆海东拥有近三十年传统及电商ERP的研发和实施部署经验。聚水潭创建之初，以电商SaaS ERP切入市场，凭借出色的产品和服务，快速获得市场的肯定。随着客户需求的不断变化，如今聚水潭已经发展成为以SaaS ERP为核心，集多种商家服务为一体的SaaS协同平台。",
+      "industry": "",
+      "url": "https://www.jushuitan.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/25-JST-聚水潭.png",
+      "logo_path": "company_logos/959_25_Jst_聚水潭.png"
+    },
+    {
+      "id": "960",
+      "name": "26 Airwallex 空中云汇",
+      "description": "Airwallex空中云汇是一家拥有全球化基因的金融科技创新企业，致力于以技术创新建设全球金融基础设施，构建数字化支付网络，为客户提供智能无缝的跨境支付解决方案，帮助企业在全球轻松展业。",
+      "industry": "",
+      "url": "http://www.airwallex.com.cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/26-Airwallex-空中云汇.png",
+      "logo_path": "company_logos/960_26_Airwallex_空中云汇.png"
+    },
+    {
+      "id": "961",
+      "name": "27 Kuaishou 快手",
+      "description": "快手是记录和分享大家生活的平台，每天数百万的原创新鲜视频。在这里，发现真实有趣的世界。",
+      "industry": "",
+      "url": "https://www.kuaishou.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/27-Kuaishou-快手.png",
+      "logo_path": "company_logos/961_27_Kuaishou_快手.png"
+    },
+    {
+      "id": "962",
+      "name": "28 Lanhu蓝湖",
+      "description": "蓝湖是北京尽微致广信息技术有限公司旗下的产品设计协作平台，国内早期为互联网团队打造的产品设计协作平台，致力于帮助团队降低沟通成本、提高工作效率、优化工作流程。",
+      "industry": "",
+      "url": "https://lanhuapp.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/28-Lanhu蓝湖.png",
+      "logo_path": "company_logos/962_28_Lanhu蓝湖.png"
+    },
+    {
+      "id": "963",
+      "name": "29 Lianlianpay连连支付",
+      "description": "连连支付是国内领先的独立第三方支付公司，建起以移动支付、跨境支付、智能支付、金融技术服务为业务核心的“全球化支付解决方案”。",
+      "industry": "",
+      "url": "https://www.lianlianpay.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/29-LianlianPay连连支付.png",
+      "logo_path": "company_logos/963_29_Lianlianpay连连支付.png"
+    },
+    {
+      "id": "964",
+      "name": "30 Luxvisions立景创新",
+      "description": "立景创新是一家摄像模组制造商，该公司专注于生产各种影像科技产品，产品包括手机镜头模组、平板镜头模组、笔记本电脑镜头模组等。",
+      "industry": "",
+      "url": "https://www.luxvisions-inno.com/cn-index.html",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/30-Luxvisions立景创新.png",
+      "logo_path": "company_logos/964_30_Luxvisions立景创新.png"
+    },
+    {
+      "id": "965",
+      "name": "31 Leapmotor 零跑",
+      "description": "零跑科技是一家具备全域自研自造能力的科技型智能电动汽车企业。业务范围涵盖智能电动汽车整车设计、研发制造、智能驾驶、电机电控、电池系统开发以及基于云计算的车联网解决方案。",
+      "industry": "",
+      "url": "https://www.leapmotor.com",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/31-Leapmotor-零跑.png",
+      "logo_path": "company_logos/965_31_Leapmotor_零跑.png"
+    },
+    {
+      "id": "966",
+      "name": "32 Fulltruckalliance满帮",
+      "description": "满帮是一家互联网+物流的平台型企业。 满帮全心全意帮助司机和货主，助力物流降本增效，坚持以技术为导向，以平台、交易、增值服务等多个核心业务布局， 将逐渐完成由平台型企业到智慧型企业再到生态型企业的升级，致力于打造成为全球最大的智慧物流生态平台。",
+      "industry": "",
+      "url": "https://www.fulltruckalliance.com",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/32-FullTruckAlliance满帮.png",
+      "logo_path": "company_logos/966_32_Fulltruckalliance满帮.png"
+    },
+    {
+      "id": "967",
+      "name": "33 Meituan 美团",
+      "description": "美团是一家科技零售公司。美团以“零售+科技”的战略践行“帮大家吃得更好，生活更好”的公司使命。自2010年3月成立以来，美团持续推动服务零售和商品零售在需求侧和供给侧的数字化升级，和广大合作伙伴一起努力为消费者提供品质服务。",
+      "industry": "",
+      "url": "https://www.meituan.com",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/33-Meituan-美团.png",
+      "logo_path": "company_logos/967_33_Meituan_美团.png"
+    },
+    {
+      "id": "968",
+      "name": "34 Pinduoduo拼多多",
+      "description": "拼多多创立于2015年4月，是上海本土成长的互联网企业。生于移动年代，拼多多以农产品零售平台起家，深耕农业，开创了以拼为特色的农产品零售的新模式，逐步发展成为以农副产品为鲜明特色的全品类综合性电商平台，是全球唯一具备规模的纯移动电商平台。",
+      "industry": "",
+      "url": "https://www.pinduoduo.com",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/34-Pinduoduo拼多多.png",
+      "logo_path": "company_logos/968_34_Pinduoduo拼多多.png"
+    },
+    {
+      "id": "969",
+      "name": "35Qingteng Cloud青藤云安全",
+      "description": "青藤云安全成立于2014年，是中国主机自适应安全开创者、云原生安全领军企业。",
+      "industry": "",
+      "url": "https://www.qingteng.cn",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/35Qingteng-Cloud青藤云安全.png",
+      "logo_path": "company_logos/969_35Qingteng_Cloud青藤云安全.png"
+    },
+    {
+      "id": "970",
+      "name": "36 Sensors Data神策数据",
+      "description": "神策数据，是国内专业的大数据分析和营销科技服务提供商、国家高新技术企业，为企业提供神策营销云、神策分析云、神策数据根基平台三大产品方案，通过全渠道的数据采集与全域用户 ID 打通，全场景多维度数据分析，全通道的精准用户触达，帮助企业实现数字化经营。",
+      "industry": "",
+      "url": "https://www.sensorsdata.cn",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/36-Sensors-Data神策数据.png",
+      "logo_path": "company_logos/970_36_Sensors_Data神策数据.png"
+    },
+    {
+      "id": "971",
+      "name": "37 Agile Robots思灵机器人",
+      "description": "思灵机器人是一家全球领先的 AI 智能机器人明星企业，立足全球化发展。在德国慕尼黑、中国北京设有双总部，以德国宇航中心为技术依托，致力于推动人工智能与机器人前沿技术的深度结合与创新，并以此拓展机器人在更多领域的推广应用。",
+      "industry": "",
+      "url": "https://www.agile-robots.cn",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/37-Agile-Robots思灵机器人.png",
+      "logo_path": "company_logos/971_37_Agile_Robots思灵机器人.png"
+    },
+    {
+      "id": "972",
+      "name": "38 Tianyancha天眼查",
+      "description": "天眼查是由柳超博士领衔开发的商业查询平台，在基于独有核心技术图数据库的基础上，构建了完备的集数据采集、数据清洗、数据聚合、数据建模、数据产品化为一体的大数据解决方案。",
+      "industry": "",
+      "url": "http://www.tianyancha.com",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/38-TianYanCha天眼查.png",
+      "logo_path": "company_logos/972_38_Tianyancha天眼查.png"
+    },
+    {
+      "id": "973",
+      "name": "39 Tuhu途虎养车",
+      "description": "途虎养车于2011年创立于上海，途虎养车以输出正品、专业、高效的服务为使命，致力于为中国消费者提供更好的养车体验。",
+      "industry": "",
+      "url": "https://www.tuhu.cn",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/39-Tuhu途虎养车.png",
+      "logo_path": "company_logos/973_39_Tuhu途虎养车.png"
+    },
+    {
+      "id": "974",
+      "name": "40 Gds 万国数据",
+      "description": "万国数据是中国领先的高性能数据中心运营商和服务商。",
+      "industry": "",
+      "url": "http://www.gds-services.com/zh_cn",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/40-GDS-万国数据.png",
+      "logo_path": "company_logos/974_40_Gds_万国数据.png"
+    },
+    {
+      "id": "975",
+      "name": "41 Vipshop唯品会",
+      "description": "唯品会聚焦“好货”战略，坚持与“好品牌”合作，通过专业买手团队深入挖掘“好款式”，通过与品牌建立强供应链“好质量”供货体系，实现货品的“好价格”，为消费者提供极致性价比的品质好物。",
+      "industry": "",
+      "url": "https://www.vip.com",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/41-Vipshop唯品会.png",
+      "logo_path": "company_logos/975_41_Vipshop唯品会.png"
+    },
+    {
+      "id": "976",
+      "name": "42 Nio蔚来",
+      "description": "蔚来成立于2014年11月，是高端智能电动汽车市场的先驱及领跑者。蔚来的使命是创造愉悦的生活方式。",
+      "industry": "",
+      "url": "https://www.nio.cn",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/42-nio蔚来.png",
+      "logo_path": "company_logos/976_42_Nio蔚来.png"
+    },
+    {
+      "id": "977",
+      "name": "43 Ponyai 小马智行",
+      "description": "小马智行于2016年底成立，使命是通过人工智能技术给未来交通和出行服务带来革命性的发展。",
+      "industry": "",
+      "url": "https://www.pony.ai",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/43-ponyAI-小马智行.png",
+      "logo_path": "company_logos/977_43_Ponyai_小马智行.png"
+    },
+    {
+      "id": "978",
+      "name": "44 Xpeng 小鹏汽车",
+      "description": "小鹏汽车成立于2014年，是一家专注未来出行的科技公司，已经成为中国领先的智能电动汽车公司之一。小鹏汽车的使命是用科技为人类创造更便捷愉悦的出行生活。",
+      "industry": "",
+      "url": "https://www.xiaopeng.com",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/44-Xpeng-小鹏汽车.png",
+      "logo_path": "company_logos/978_44_Xpeng_小鹏汽车.png"
+    },
+    {
+      "id": "979",
+      "name": "45 Envision Energy远景能源",
+      "description": "远景能源致力于创造美好能源世界,远景能源聚合全球可再生与智慧能源技术创新实力，以智能风电为切入，通过创造性的技术与设计，把能源科技打造为让人类生活更美好的产品，让充足、低价、安全的清洁能源走近人们的生活。",
+      "industry": "",
+      "url": "https://www.envision-group.com/cn/energy.html",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/45-Envision-Energy远景能源.png",
+      "logo_path": "company_logos/979_45_Envision_Energy远景能源.png"
+    },
+    {
+      "id": "980",
+      "name": "46 Envision Aesc远景动力",
+      "description": "远景动力隶属于远景科技集团。远景科技集团是全球领先绿色科技公司，旗下拥有智能风电和智慧储能系统技术公司远景能源、智能电池企业远景动力、开发全球领先智能物联操作系统的远景智能、管理远景－红杉百亿碳中和基金的远景资本，以及远景维珍电动方程式车队，并在美国、欧洲和亚洲等地设立多个全球创新研发中心。",
+      "industry": "",
+      "url": "https://www.envision-group.com/cn/aesc.html",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/46-Envision-AESC远景动力.png",
+      "logo_path": "company_logos/980_46_Envision_Aesc远景动力.png"
+    },
+    {
+      "id": "981",
+      "name": "47 Envision Digital 远景智能",
+      "description": "远景智能构建的智能物联操作系统EnOS，目前连接协同全球超过400GW的能源资产与2亿个智能设备终端，面向可再生能源、城市基础设施和碳管理等场景打造智能产品和解决方案，助力世界各地政府和企业实现数字化与低碳化转型。",
+      "industry": "",
+      "url": "https://www.envision-group.com/cn/digital.html",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/47-Envision-Digital-远景智能.png",
+      "logo_path": "company_logos/981_47_Envision_Digital_远景智能.png"
+    },
+    {
+      "id": "982",
+      "name": "48 Yuanxin圆心科技",
+      "description": "圆心科技是一家致力于为患者传递价值的医疗健康公司。集团成立于2015年，业务模式专注于患者的整个医疗服务周期。圆心科技的三大支柱业务，院外综合患者服务、供给端赋能服务、创新医疗健康服务，共同致力实现同一目标，即创建一个协同的医疗平台，确保向患者提供全面、个性化及贴心的服务。",
+      "industry": "",
+      "url": "https://www.yuanxinjituan.com",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/48-Yuanxin圆心科技.png",
+      "logo_path": "company_logos/982_48_Yuanxin圆心科技.png"
+    },
+    {
+      "id": "983",
+      "name": "49 Cloudwise云智慧",
+      "description": "云智慧集团成立于2009年，是国内领先的智能业务运维解决方案服务商。云智慧专注于运维领域的开拓和深耕，是智能运维国家标准制定单位之一。经过多年自主研发，形成了从ITOM到ITSM的智能运维产品系列，为金融、政府、运营商、能源、交通、制造等数十个行业客户提供了数字化运维体系建设及运维管理解决方案。",
+      "industry": "",
+      "url": "https://www.cloudwise.com",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/49-Cloudwise云智慧.png",
+      "logo_path": "company_logos/983_49_Cloudwise云智慧.png"
+    },
+    {
+      "id": "984",
+      "name": "50 Inceptio嬴彻科技",
+      "description": "嬴彻科技是一家自动驾驶技术和运营公司，业务聚焦于干线物流场景，坚持”全栈自研+量产驱动+深度运营”的核心策略，自主研发全栈L3和L4级自动驾驶技术，和汽车产业紧密合作，为物流客户提供更安全、更高效的自动驾驶技术和新一代TaaS (Transportation-as-a-Service)货运网络。",
+      "industry": "",
+      "url": "https://www.inceptio.ai",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/50-Inceptio嬴彻科技.png",
+      "logo_path": "company_logos/984_50_Inceptio嬴彻科技.png"
+    },
+    {
+      "id": "985",
+      "name": "51 Patsnap智慧芽",
+      "description": "智慧芽是一家科技创新情报SaaS服务商，聚焦科技创新情报和知识产权信息化服务两大板块。通过机器学习、计算机视觉、自然语言处理（NLP）等人工智能技术，智慧芽为全球领先的科技公司、高校和科研机构、金融机构等提供大数据情报服务。",
+      "industry": "",
+      "url": "https://www.zhihuiya.com",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/51-Patsnap智慧芽.png",
+      "logo_path": "company_logos/985_51_Patsnap智慧芽.png"
+    },
+    {
+      "id": "986",
+      "name": "52字节跳动Bytedance",
+      "description": "字节跳动，以激发创造丰富生活为愿景，是较早将人工智能应用于移动互联网场景的科技企业。字节跳动旗下的主要产品包括今日头条、抖音、TikTok、西瓜视频、飞书等。",
+      "industry": "",
+      "url": "https://www.bytedance.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/52字节跳动bytedance.png",
+      "logo_path": "company_logos/986_52字节跳动Bytedance.png"
+    },
+    {
+      "id": "987",
+      "name": "53 Chnt 正泰安能",
+      "description": "正泰安能是正泰旗下户用光伏产业公司，专注于为广大农村用户提供屋顶光伏系统的合作开发、销售、勘测设计、安装及售后运维的全解决方案。",
+      "industry": "",
+      "url": "https://www.chintanneng.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/53-CHNT-正泰安能.png",
+      "logo_path": "company_logos/987_53_Chnt_正泰安能.png"
+    },
+    {
+      "id": "988",
+      "name": "54 中创新航",
+      "description": "中创新航是全球领先的新能源科技企业，致力于成为能源价值创造者，构建全方位能源运营体系，为以车用、船用、储能为代表的新能源全场景应用市场提供完善的产品解决方案和全生命周期管理。",
+      "industry": "",
+      "url": "https://www.calb-tech.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/54-中创新航.png",
+      "logo_path": "company_logos/988_54_中创新航.png"
+    },
+    {
+      "id": "997",
+      "name": "63 Genesis Medtech健适.Png",
+      "description": "健适医疗科技集团成立于2019年，公司业务覆盖高值医用耗材的研发、生产和营销领域，产品组合包括微创外科、血管介入（包括神经介入、心脏介入及外周介入）、以及结构性心脏病。健适致力于打造开放的医疗科技平台，在全球范围内建立创新网络。公司分别在中国、美国、日本和新加坡成立研发中心，并与全球各地的一流团队开展合作研发。2022年9月，健适无锡基地（一期项目）建成，包含两栋研发生产楼和一栋创新中心楼，用于研发和生产微创外科、血管介入等相关产品，及为国内医疗专业人士提供临床培训。在市场拓展方面，健适拥有强大的商业能力，已在国内覆盖近2000家大中型医院。健适的愿景是“打造开放的医疗科技平台，融合多方合作者共同创造价值，成为革新性的世界一流企业”；企业的使命是“让医疗科技普惠，为生命守护健康”。",
+      "industry": "",
+      "url": "https://www.genesismedtech.com.cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/63-Genesis-Medtech健适.png.png",
+      "logo_path": "company_logos/997_63_Genesis_Medtech健适.Png.png"
+    },
+    {
+      "id": "998",
+      "name": "64 Jinxinfertility锦欣生殖",
+      "description": "锦欣生殖是一家辅助生殖医疗机构。",
+      "industry": "",
+      "url": "https://www.jxr-fertility.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/64-JinXinFertility锦欣生殖.png",
+      "logo_path": "company_logos/998_64_Jinxinfertility锦欣生殖.png"
+    },
+    {
+      "id": "999",
+      "name": "65 Xtaipi晶泰科技",
+      "description": "晶泰科技是一家以智能化、自动化驱动的药物研发科技公司，为全球生物医药企业提供药物发现一体化解决方案。晶泰科技首创智能计算、自动化实验和专家经验相结合的药物研发新模式，致力于打造三位一体的研发平台，通过专业的服务助力客户缩短药物研发的周期，提高药物研发成功率。",
+      "industry": "",
+      "url": "https://www.xtalpi.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/65-XtaiPi晶泰科技.png",
+      "logo_path": "company_logos/999_65_Xtaipi晶泰科技.png"
+    },
+    {
+      "id": "1000",
+      "name": "66Asymchem凯莱英Logo",
+      "description": "凯莱英医药集团（股票代码：002821.SZ/6821.HK）是一家全球领先的CDMO公司，为全球新药提供高质量的研发、生产一站式服务。以加速新药上市，延长生命的质量为己任，依托持续技术创新，为国内外制药公司、生物技术公司提供药品全生命周期一站式CMC服务，加快新药开发及应用。目前拥有全球8大研发生产基地，20余家公司，超9800名员工。业务范围覆盖临床早期到商业化阶段，包括高级中间体，原料药，制剂等的研发和cGMP生产，以及临床研究服务。并通过战略合作与业务拓展，逐步构建起创新药一体化服务生态圈，做全球新药研发生产的合伙人。",
+      "industry": "",
+      "url": "https://www.asymchem.com.cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/66Asymchem凯莱英logo.png",
+      "logo_path": "company_logos/1000_66Asymchem凯莱英Logo.png"
+    },
+    {
+      "id": "1001",
+      "name": "67 Neurophth纽福斯",
+      "description": "纽福斯是中国专注于眼科疾病的体内基因治疗行业领导者。纽福斯在武汉、苏州、上海和美国圣地亚哥设有子公司，致力为全球患者研发针对遗传疾病的基因疗法。研究者发起的视网膜疾病基因治疗研究的试验数据成功地验证了我们使用的AAV平台，研究结果已经发表在Nature-Scientific Report、Ophthalmology和Ebio Medicine上。我们的核心产品NR082，旨在治疗ND4介导的莱伯氏遗传性视神经病变（ND4-LHON），已被美国FDA和欧洲药品管理局（EMA）授予孤儿药称号（ODD），是首个同时获得中国NMPA及美国FDA授予的临床试验IND许可的中国籍基因治疗新药。目前已完成中国III期临床试验首例患者入组给药。公司管线还包括ND1介导的LHON（公司第二款美国FDA授予ODD称号新药）、常染色体显性视神经萎缩、视神经保护、血管性视网膜病变等临床前候选药物。纽福斯已启动苏州工厂的内部生产扩能，以支持未来的商业需求。",
+      "industry": "",
+      "url": "https://www.neurophth.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/67-Neurophth纽福斯.png",
+      "logo_path": "company_logos/1001_67_Neurophth纽福斯.png"
+    },
+    {
+      "id": "1002",
+      "name": "68 Novogene诺禾致源",
+      "description": "北京诺禾致源科技股份有限公司（股票代码：688315）于2011年成立，专注于开拓前沿分子生物学技术和高性能计算在生命科学研究和人类健康领域的应用，致力于成为全球领先的基因科技产品和服务提供者。作为基因测序领域的佼佼者，诺禾致源的业务覆盖生命科学基础科研服务、医学研究与技术服务、建库测序平台服务，为全球研究型大学、科研院所、医院、医药研发企业、农业企业等提供基因测序、质谱分析和生物信息技术支持等服务。企业总部位于北京，在天津、南京、美国、英国和新加坡设有实验室或实验基地，并在中国香港、美国、英国、新加坡、荷兰、日本设有子公司。公司业务覆盖全球6大洲约70个国家和地区，服务客户超过6,100家。诺禾致源在全球范围内与众多学术机构建立了广泛的合作关系，完成多项具有国际先进水平的基因组学研究工作，截止2022年6月，诺禾致源与项目伙伴合作发表SCI文章950余篇，累积影响因子大于7970；目前已取得软件著作权274项，专利45项。",
+      "industry": "",
+      "url": "https://en.novogene.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/68-Novogene诺禾致源.png",
+      "logo_path": "company_logos/1002_68_Novogene诺禾致源.png"
+    },
+    {
+      "id": "1003",
+      "name": "69Purui普瑞",
+      "description": "普瑞眼科（301239.SZ）品牌成立于2005年，是一家集医疗、教学、科研和眼健康管理为一体的全国连锁的专业眼科医疗机构。普瑞眼科致力于以全年龄、全程视力、全视觉场景的服务理念，服务全民。经过多年的探索实践，普瑞眼科在连锁、技术、服务、品牌和人才方面形成了独特的优势，持续构建高质量眼科医疗服务体系，为国内眼病患者提供更精准科学的个性化眼科诊疗服务。普瑞眼科始终坚持回归医疗本质，坚持以大力发展中国的眼科事业、提高中国眼科的服务能力为使命，为眼病患者提供可支付得起的高质量眼科医疗服务，“使人人享有高品质的视界”。",
+      "industry": "",
+      "url": "http://www.purui.cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/69Purui普瑞.png",
+      "logo_path": "company_logos/1003_69Purui普瑞.png"
+    },
+    {
+      "id": "1004",
+      "name": "70Venus Medtech启明医疗",
+      "description": "杭州启明医疗器械股份有限公司（“启明医疗”），是中国领先的心脏瓣膜微创介入治疗领域龙头企业，致力于结构性心脏病领域创新医疗器械的开发及商业化。启明医疗成立于2009年，位于杭州国家高新技术产业开发区（滨江）。2019年12月10日，公司成功在香港联交所主板上市，股票代码为02500.HK。公司创新产品开发方面拥有显著的先发优势，重点产品VenusA-Valve和VenusA-Plus为全球首款获得NMPA批准并在中国上市的第一、第二代TAVR产品。作为国内首款创新型经导管人工肺动脉瓣膜系统产品，VenusP-Valve已于2022年4月获CE MDR批准上市，是目前唯一在欧洲、美洲使用的中国肺动脉瓣产品；7月，该产品获NMPA批准上市，成为中国首个获批上市的TPVR产品，填补了国内该领域的空白。此外，截止目前，启明医疗已建立了一个全面的结构性心脏病整体解决方案，覆盖主动脉瓣、肺动脉瓣、二尖瓣、三尖瓣等心脏瓣膜疾病，还包括肥厚性心肌病，高血压肾动脉去交感神经消融术以及手术配套产品等完整管线。未来，启明医疗将重点发展新材料、仿生学、影像融合技术及数字传感方向，不断更新迭代，推陈创新，以满足广大的医患需求。创新引领未来，启明医疗将继续致力于结构性心脏病医疗创新器材的研发和市场化，加速中国创新、惠及世界。",
+      "industry": "",
+      "url": "https://www.venusmedtech.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/70Venus-Medtech启明医疗.png",
+      "logo_path": "company_logos/1004_70Venus_Medtech启明医疗.png"
+    },
+    {
+      "id": "1005",
+      "name": "71 Recbio瑞科生物",
+      "description": "江苏瑞科生物技术股份有限公司(股票代码：2179.HK) 创立于2012年，是一家以自主研发技术为核心驱动力的创新型疫苗公司，以“创制一流疫苗，守护人类健康”为使命愿景，致力于研发并商业化更安全、有效的创新型疫苗，以应对远未满足的公共卫生需求。公司已构建了先进的新型佐剂、蛋白工程和免疫评价三大创新技术平台，是全球少数几家有能力自主研发新型佐剂的公司之一，在抗原设计优化、佐剂的开发生产、确定抗原及佐剂的最佳组合方面形成协同效应。公司持续提升技术平台能力，通过合作在mRNA疫苗领域开展深入、广泛的研发，寻求实现mRNA疫苗及mRNA创新药物领域的新突破。公司已建立由十余款的高价值创新型疫苗组合，覆盖HPV疫苗、新冠肺炎疫苗、带状疱疹疫苗、流感疫苗等具有重大疾病负担的品种。",
+      "industry": "",
+      "url": "https://www.recbio.cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/71-RecBio瑞科生物.png",
+      "logo_path": "company_logos/1005_71_Recbio瑞科生物.png"
+    },
+    {
+      "id": "1006",
+      "name": "72 Burning Rock燃石医学",
+      "description": "燃石医学（纳斯达克代码：BNR）成立于2014年，公司使命为“用科学守护生命之光”，专注于开发创新可靠、具有临床价值的癌症伴随诊断与早检产品。公司业务及研发方向主要覆盖：1）癌症患病人群精准医学检测；2）全球抗肿瘤药企的生物标志物和伴随诊断合作；3）基于液体活检的多癌种早检。燃石医学于2018年7月获国家药品监督管理局（NMPA）颁发的中国肿瘤NGS检测试剂盒第一证，在体外诊断领域具有里程碑式意义。实验室获得广东省临检中心颁发的 “高通量测序实验室”技术审核，同时获得美国CLIA、CAP和ISO15189实验室质量体系资质认证。公司将继续致力于开发创新可靠的癌症精准检测产品，推动癌症精准医疗领域的发展。",
+      "industry": "",
+      "url": "https://www.brbiotech.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/72-Burning-Rock燃石医学.png",
+      "logo_path": "company_logos/1006_72_Burning_Rock燃石医学.png"
+    },
+    {
+      "id": "1007",
+      "name": "73 Brii 腾盛博药",
+      "description": "腾盛博药生物科技有限公司（“腾盛博药”；股份代号：2137.HK）是一家位于中国及美国的生物技术公司，致力于针对全球重大感染性疾病（如乙型肝炎、COVID-19、人类免疫缺陷病毒 (HIV) 感染、多重耐药 (MDR) 或广泛耐药性 (XDR) 革兰氏阴性菌感染）及其它具有重大公共卫生负担的疾病（如中枢神经系统 (CNS) 疾病）开发创新疗法。",
+      "industry": "",
+      "url": "https://cn.briibio.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/73-Brii-腾盛博药.png",
+      "logo_path": "company_logos/1007_73_Brii_腾盛博药.png"
+    },
+    {
+      "id": "1008",
+      "name": "74 Ch Biomedical同心医疗",
+      "description": "同心医疗成立于2008年，致力于独立研发、生产及销售具有技术突破性的心室辅助装置(VAD)，通过持续为专业医疗团队和患者提供卓越服务，让全球更大范围的心衰患者及其家庭重享健康快乐生活。经过在全磁悬浮技术领域十多年的独立研发和技术积累，同心医疗成功研发了慈孚®VAD并获得临床应用，成为中国首个获批上市的全磁悬浮心室辅助装置。同时，该产品构建了完备的自主知识产权，相关专利已在美国、中国、欧洲和日本等地完成布局，目前正在积极筹备国际临床试验和全球商业市场拓展。凭借慈孚®VAD关键性能指标上的突破，同心医疗获得了技术突破者的国际声誉，持续展现全球技术领跑者的实力。未来，同心医疗将持续致力于通过协同本领域内的全球优势资源，推动VAD行业的创新和发展。",
+      "industry": "",
+      "url": "https://www.chbiomedical.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/74-CH-Biomedical同心医疗.png",
+      "logo_path": "company_logos/1008_74_Ch_Biomedical同心医疗.png"
+    },
+    {
+      "id": "1009",
+      "name": "75 Nanomicro纳微",
+      "description": "苏州纳微科技股份有限公司（纳微科技 688690.SH）是一家专门从事高精度、高性能和高附加值微球材料研发和生产的国家高新技术企业，2021年6月23日在上交所科创版成功上市。公司致力于建设世界领先的纳米微球准制备和应用平台，是世界上能提供最多品种与规格微球产品的公司之一。纳微科技拥有单分散色谱填料的精准制备技术、表面功能化技术和规模化生产能力；产品涵盖硅胶正相、反相、HILIC、手性填料，聚合物反相、离子交换、疏水层析、亲和层析（Protein A、金属螯合、苯硼酸）、固相萃取、凝胶渗透色谱及特殊功能填料。纳微科技承担了国家发改委重大专项、国家科技型中小企业技术创新基金、国家十二五科技支撑计划项目、江苏省成果转化专项资金、江苏省科技支撑计划等多项国家、省、市级科研项目，荣获中国侨界创新贡献奖和江苏省科技进步奖。纳微科技在苏州工业园区建成13000m²的研发及生产中心，2020年在常熟建成18000m²的生产基地，纳微已通过ISO9001:2015质量管理体系认证，为客户提供完善的技术支持文件。纳微科技始终坚持“以创新，赢尊重，得未来”的公司发展理念，坚守精益求精的工匠精神把产品做到极致，打造世界一流的高性能微球“芯”材料智造和应用的领导者。",
+      "industry": "",
+      "url": "https://www.nanomicrotech.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/75-Nanomicro纳微.png",
+      "logo_path": "company_logos/1009_75_Nanomicro纳微.png"
+    },
+    {
+      "id": "1010",
+      "name": "76 Snibe新产业生物",
+      "description": "深圳市新产业生物医学工程股份有限公司成立于1995 年，是专业从事体外诊断产品研发、生产、销售及服务的国家级高新技术企业，注册资本7.8666亿元人民币。公司自成立以来，一直专注于化学发光免疫分析领域的研究，经过十多年的潜心努力，于2008年9月顺利完成中国第一台全自动化学发光仪的注册，并成功推上市场。通过不断的技术创新，公司于2016年将智能化的“模块化生化免疫分析系统”成功推出，进一步丰富了公司产品线。2017年7月，新产业生物通过美国FDA 510(k)审核，成为中国第一家获得美国FDA准入的化学发光厂家。2018年，新产业生物成功发布超高速全自动化学发光免疫分析系统MAGLUMI® X8，开启化学发光超高速的新纪元。2019年7月，新产业生物自主研发的丙型肝炎化学发光产品成功通过欧盟CE List A认证，成为中国第一家丙肝试剂荣获欧盟CE认证的化学发光厂家。2020年12月，新产业生物获中国第一张化学发光领域IVDR CE认证证书，是全球体外诊断领域的先行者之路上新的里程碑。新产业生物是中国第一家拥有“免疫磁性微球”专利并将其作为化学发光系统关键分离材料的公司，是中国第一家拥有“人工合成的小分子有机化合物-ABEI”专利并用其代替传统的酶作为发光标记物的公司，同时也是中国第一家应用上述专利技术且获得国内注册证并实现批量生产全自动直接化学发光免疫分析仪器及配套试剂的公司。公司的研发成果，填补了国内在体外诊断领域的空白，打破了该领域长期被国外厂家产品垄断和技术封锁的局面，已成为中国化学发光免疫定量分析领域的领导者。",
+      "industry": "",
+      "url": "https://www.snibe.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/76-Snibe新产业生物.png",
+      "logo_path": "company_logos/1010_76_Snibe新产业生物.png"
+    },
+    {
+      "id": "1011",
+      "name": "77 Innovent信达生物",
+      "description": "“始于信，达于行”，开发出老百姓用得起的高质量生物药，是信达生物的理想和目标。信达生物成立于2011年，致力于开发、生产和销售肿瘤、自身免疫、代谢、眼科等重大疾病领域的创新药物。2018年10月31日，信达生物制药在香港联合交易所有限公司主板上市，股票代码：01801。自成立以来，公司凭借创新成果和国际化的运营模式在众多生物制药公司中脱颖而出。建立起了一条包括34个新药品种的产品链，覆盖肿瘤、代谢疾病、自身免疫等多个疾病领域，其中7个品种入选国家“重大新药创制”专项。公司已有 8个产品（信迪利单抗注射液，商品名：达伯舒®；贝伐珠单抗，商品名：达攸同®；阿达木单抗，商品名：苏立信®；利妥昔单抗，商品名：达伯华®； 佩米替尼片，商品名：达伯坦®; 奥雷巴替尼，商品名：耐立克®; 雷莫西尤单抗，商品名：希冉择®; 塞普替尼）获得批准上市，2个品种在NMPA审评中，4个品种进入III期或关键性临床研究，另外还有20个产品已进入临床研究。信达生物已组建了一支具有国际先进水平的高端生物药开发、产业化人才团队，包括众多海归专家，并与美国礼来制药、赛诺菲、Adimab、Incyte和MD Anderson 癌症中心等国际合作方达成战略合作。信达生物希望和大家一起努力，提高中国生物制药产业的发展水平，以满足百姓用药可及性和人民对生命健康美好愿望的追求。",
+      "industry": "",
+      "url": "https://www.innoventbio.com",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/77-Innovent信达生物.png",
+      "logo_path": "company_logos/1011_77_Innovent信达生物.png"
+    },
+    {
+      "id": "1012",
+      "name": "78 Wuxi Apptec药明康德",
+      "description": "药明康德（股票代码：603259.SH/2359.HK）为全球生物医药行业提供一体化、端到端的新药研发和生产服务，在亚洲、欧洲、北美等地均设有运营基地。药明康德通过独特的“CRDMO”和“CTDMO”业务模式，不断降低研发门槛，助力客户提升研发效率，为患者带来更多突破性的治疗方案，服务范围涵盖化学药研发和生产、生物学研究、临床前测试和临床试验研发、细胞及基因疗法研发、测试和生产等领域。",
+      "industry": "",
+      "url": "https://www.wuxiapptec.com/zh-cn",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/78-WuXi-AppTec药明康德.png",
+      "logo_path": "company_logos/1012_78_Wuxi_Apptec药明康德.png"
+    },
+    {
+      "id": "1013",
+      "name": "79 Wuxi Biologics药明生物",
+      "description": "药明生物（股票代码：2269.HK）是一家全球领先的合同研究、开发和生产（CRDMO）公司。公司通过开放式、一体化生物制药能力和技术赋能平台，提供全方位的端到端服务，帮助合作伙伴发现、开发及生产生物药，实现从概念到商业化生产的全过程，加速全球生物药研发进程，降低研发成本，造福病患。药明生物将环境、社会和治理（ESG）视为业务发展和企业精神的重要组成部分，并致力于成为全球生物药CRDMO领域的ESG领导者，例如应用更绿色环保的新一代生物制药技术和能源等引领行业发展。公司成立了由首席执行官领导的ESG委员会，全面落实ESG战略并践行可持续性发展承诺。",
+      "industry": "",
+      "url": "https://www.wuxibiologics.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/79-WuXi-Biologics药明生物.png",
+      "logo_path": "company_logos/1013_79_Wuxi_Biologics药明生物.png"
+    },
+    {
+      "id": "1014",
+      "name": "80 Iray奕瑞科技",
+      "description": "上海奕瑞光电子科技股份有限公司（简称“奕瑞科技”，股票代码：688301）生产的数字化X线探测器覆盖包括医疗、齿科、放疗、兽用和工业等诸多应用领域，同时其强大的研发和生产能力均处于行业龙头地位。公司创立于2011年，总部位于中国上海新金桥高科技园区，生产基地位于上海浦东、江苏太仓及韩国首尔。目前产品远销美国、欧洲等全球70+国家和地区，产品装机总量超50000台，已逐渐发展成为中国平板探测器制造的代表企业。通过技术吸收和自主创新，奕瑞已成为全球为数不多同时掌握非晶硅、氧化物 、柔性基底、CMOS技术路线的探测器公司，并可提供硬件、软件及完整的影像链综合解决方案，满足客户多样化的需求。",
+      "industry": "",
+      "url": "https://www.iraygroup.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/80-iRay奕瑞科技.png",
+      "logo_path": "company_logos/1014_80_Iray奕瑞科技.png"
+    },
+    {
+      "id": "1015",
+      "name": "81 Bioeasy易瑞生物",
+      "description": "深圳市易瑞生物技术股份有限公司（300942）是一家致力于食药安全、临床诊断、公共安全等领域的国家高新技术企业和中国专精特新小巨人企业，是中国A股首家食品安全快速检测上市公司，在行业内唯一构建了 “核心原材料+试剂+设备+方案+服务+互联网+”的食品安全快检闭环体系。清科排名长期位居前10的深创投和红杉资本都投资了易瑞生物。公司研发的产品覆盖重金属、农药残留、兽药残留、非法添加物、真菌毒素、动物疫病病原、人传染病病原、人畜共患病病原、掺假、转基因、激素与环境干扰物、理化性质等快速检测。在农业部水产品中禁用药物残留快速检测产品现场验证连续多年综合排名第一；在国际食品安全快速检测领域权威机构——美国分析化学家协会（AOAC）网站公布的认证产品中，易瑞是国内第一家通过该协会认证的企业（全国仅2家）；获得了欧盟CE认证、美国FDA认证等国际认证，是新西兰、白俄罗斯、法国、比利时、波兰、厄瓜多尔等国家认可的中国大陆快检产品。全球第一大乳品集团兰特黎斯、欧洲第三大食品集团达能、全球大型乳企集团雀巢等，以及95%以上国内乳制品企业都是易瑞的客户。",
+      "industry": "",
+      "url": "http://www.bioeasy.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/81-Bioeasy易瑞生物.png",
+      "logo_path": "company_logos/1015_81_Bioeasy易瑞生物.png"
+    },
+    {
+      "id": "1016",
+      "name": "82 Zai Lab再鼎医药",
+      "description": "再鼎医药有限公司（纳斯达克股票代码：ZLAB；香港联交所股份代号：9688）是一家以研发为基础、处于商业化阶段的创新型生物制药公司，总部位于中国和美国，专注于为中国及全球患者提供治疗肿瘤、自身免疫疾病、感染性疾病和中枢神经系统疾病的变革性药物。再鼎医药是一家拥有从早期药物发现、临床研发、生产到商业化能力的全面整合的生物制药公司。目前已经在大中华区上市4款创新治疗方法，管理超过50项正在进行或计划进行的临床研究；公司还拥有小分子和大分子生产基地、经验丰富的注册事务团队以及高度专业的商业化团队，负责创新产品的生产、注册和商业化。再鼎的目标是利用我们的能力和资源努力促进全世界人类的健康福祉。",
+      "industry": "",
+      "url": "https://cn.zailaboratory.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/82-Zai-Lab再鼎医药.png",
+      "logo_path": "company_logos/1016_82_Zai_Lab再鼎医药.png"
+    },
+    {
+      "id": "1017",
+      "name": "83 Joinn Lab昭衍新药",
+      "description": "北京昭衍新药研究中心股份有限公司（昭衍新药，股票代码：603127.SH/6127.HK），成立于1995年，是专业化的药物研发服务外包企业（CRO），总部位于北京，在北京、苏州、重庆、广州、无锡、梧州、南宁、云南、上海、美国加州及波士顿设有子公司，目前已经拥有2500余人的专业技术团队。昭衍新药建立有符合国际规范的质量管理体系（CNAS/ILAC-MRA认证），具备中国NMPA、美国FDA、日本PMDA、韩国MFDS及经合组织OECD的GLP资质以及国际AAALAC（动物福利）认证资质，评价资料满足全球药品注册要求。可以向客户提供非临床药理毒理学研究及评价，特别是非临床安全性评价，临床试验及药物警戒等一站式服务；还可以提供兽药、农药及医疗器械评价等服务项目。",
+      "industry": "",
+      "url": "https://www.joinnlabs.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/83-Joinn-Lab昭衍新药.png",
+      "logo_path": "company_logos/1017_83_Joinn_Lab昭衍新药.png"
+    },
+    {
+      "id": "1031",
+      "name": "97 Jdl京东物流",
+      "description": "随着无界零售时代的到来，京东物流作为无界物流的引领者和实践者，以降低社会物流成本为使命，致力于成为全球供应链基础设施服务商。",
+      "industry": "",
+      "url": "https://www.jdl.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/97-JDL京东物流.png",
+      "logo_path": "company_logos/1031_97_Jdl京东物流.png"
+    },
+    {
+      "id": "1032",
+      "name": "98 Simple Love简爱",
+      "description": "简爱酸奶是一个益生菌酸奶品牌，采用牛奶乳清蛋白做为原料，主打“纯天然，无添加”理念，拥有裸酸奶系列、益生菌酸奶系列、高蛋白酸奶系列等系列产品，包含经典原味酸奶、蛋奶口味金盖、生牛等多种品类，用户可通过网络商城及线下实体超市进行购买。",
+      "industry": "",
+      "url": "https://www.jianai.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/98-Simple-Love简爱.png",
+      "logo_path": "company_logos/1032_98_Simple_Love简爱.png"
+    },
+    {
+      "id": "1034",
+      "name": "100 Junlebao君乐宝",
+      "description": "君乐宝乳业集团成立于1995年，是从事奶业全产业链经营的企业集团、中国奶业领先企业之一。集团现有员工14000余人，在河北、河南、江苏、吉林等地建有21个生产工厂、17个现代化大型牧场。业务范围包括婴幼儿奶粉、酸奶、低温鲜奶、常温液态奶、牧业、草业等板块，上下游协同发展，为消费者提供营养、健康、安全的乳制品。君乐宝婴幼儿奶粉、低温酸奶等产品市场占有率在同品类位居前列。",
+      "industry": "",
+      "url": "http://www.junlebaoruye.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/100-Junlebao君乐宝.png",
+      "logo_path": "company_logos/1034_100_Junlebao君乐宝.png"
+    },
+    {
+      "id": "1036",
+      "name": "101 Linsy林氏木业",
+      "description": "林氏木业，隶属于佛山市阿里顺林家具有限公司，创立于 2007 年，是领跑电商家具行业的电子商务品牌。",
+      "industry": "",
+      "url": "https://www.linsygroup.cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/101-Linsy林氏木业.png",
+      "logo_path": "company_logos/1036_101_Linsy林氏木业.png"
+    },
+    {
+      "id": "1037",
+      "name": "102 Snack Is Busy零食很忙",
+      "description": "湖南零食很忙商业连锁有限公司，成立于湖南长沙，是一家十分年轻、专注线下的零食连锁企业。公司肩负着打造“不贵好吃真量贩，人民的零食品牌”的企业使命，面向满足更大众化的零食需求，全面贴近老百姓生活，满足广大人民群众的零食需求。公司秉承正年轻的精神，激流勇进的工作风格，汇集精英团队，凝聚专业力量，让零食很忙一路创新，以超越传统的姿态，开辟全新零食销售模式，仅4年多时间便成长为湖南本土零食连锁行业前列品牌，目前全国门店已超1800家。公司在选品、品控、管理门店、品牌化发展、供应链打造上构筑核心优势，为品牌更快速、更全面的发展提供有力支持。未来，公司将继续坚持“打造全国行业第一”的发展目标，为更广大人民提供更专业、更全面的零食解决方案。",
+      "industry": "",
+      "url": "https://www.hnlshm.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/102-Snack-is-Busy零食很忙.png",
+      "logo_path": "company_logos/1037_102_Snack_Is_Busy零食很忙.png"
+    },
+    {
+      "id": "1038",
+      "name": "103Drcheese奶酪博士",
+      "description": "奶酪博士成立于2019年，由丰富乳品经验的中国爸爸联合荷兰奶酪专家共同创立。坚持“奶酪博士就是营养”的品牌定位，秉持「父母心」「好奇心」和「好胜心」企望为中国家庭创造更专业的营养奶酪产品。通过对产品品质的高要求拉动中国奶酪市场的基准线，以优秀专业的产品研发部门、稳定高效的供应链系统、专业经验丰富的医生营养师团队，让更多的中国消费者了解什么是真奶酪、如何挑选好奶酪。",
+      "industry": "",
+      "url": "https://mp.weixin.qq.com/s/H-Fj3N377doO6uZ3KnfZdw",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/103DrCheese奶酪博士.png",
+      "logo_path": "company_logos/1038_103Drcheese奶酪博士.png"
+    },
+    {
+      "id": "1039",
+      "name": "104 Popmart泡泡玛特",
+      "description": "POP MART泡泡玛特成立于2010年，是集潮流商品销售、艺术家经纪、衍生品开发与授权、互动娱乐和潮流展会主办于一体的潮流文化娱乐公司。",
+      "industry": "",
+      "url": "https://global.popmart.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/104-Popmart泡泡玛特.png",
+      "logo_path": "company_logos/1039_104_Popmart泡泡玛特.png"
+    },
+    {
+      "id": "1040",
+      "name": "105 Purcotton全棉时代",
+      "description": "Purcotton全棉时代，这个年轻的品牌诞生于2009年，取自Pure+Cotton的单词组合，意为用天然棉花生产出亲贴肌肤的生活护理用品。",
+      "industry": "",
+      "url": "https://www.purcotton.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/105-Purcotton全棉时代.png",
+      "logo_path": "company_logos/1040_105_Purcotton全棉时代.png"
+    },
+    {
+      "id": "1041",
+      "name": "106 Winner Medical稳健医疗",
+      "description": "稳健医疗用品股份有限公司是一家研发、生产和销售以棉花为主要原材料的医用敷料和日用消费品的自主创新企业。",
+      "industry": "",
+      "url": "https://www.winnermedical.cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/106-Winner-Medical稳健医疗.png",
+      "logo_path": "company_logos/1041_106_Winner_Medical稳健医疗.png"
+    },
+    {
+      "id": "1042",
+      "name": "107 Saturnbird三顿半",
+      "description": "三顿半是一个原创咖啡品牌，主要为用户提供澎湃装挂耳咖啡、手冲咖啡系列、冷萃咖啡系列、手摇咖啡磨豆机等产品；同时提供各种不同冲煮形式以及各种场景的咖啡器具与咖啡文化交流，并与巴黎、悉尼、东京等世界各地的工作室合作家居、香氛、护理等文创项目；旗下拥有SATURNBIRD COFFEE品牌。",
+      "industry": "",
+      "url": "https://www.saturnbird.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/107-Saturnbird三顿半.png",
+      "logo_path": "company_logos/1042_107_Saturnbird三顿半.png"
+    },
+    {
+      "id": "1043",
+      "name": "108 Shiyue十月稻田",
+      "description": "十月稻田集团是中国知名的粮食品牌企业，是集优质农产品生产加工、全渠道品牌化运营为一体的现代化集团公司。公司以东北大米为核心品类，从C端思维出发，长期聚焦于大米品质与口感的提升，并且产品组合已逐步拓宽至糙米等杂粮产品，以更好地适应中国消费者对于优质食粮的新消费需求。",
+      "industry": "",
+      "url": "http://www.shiyuedaotian.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/108-Shiyue十月稻田.png",
+      "logo_path": "company_logos/1043_108_Shiyue十月稻田.png"
+    },
+    {
+      "id": "1044",
+      "name": "109 Heytea喜茶",
+      "description": "2012年，喜茶HEYTEA起源于江边里的一条小巷，原名皇茶ROYALTEA。为了与层出不穷的山寨品牌区分开来，故全面升级为注册品牌喜茶HEYTEA。",
+      "industry": "",
+      "url": "http://www.heytea.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/109-Heytea喜茶.png",
+      "logo_path": "company_logos/1044_109_Heytea喜茶.png"
+    },
+    {
+      "id": "1045",
+      "name": "110 Country Style Cooking乡村基",
+      "description": "乡村基成立于 1996 年，在国内米饭快餐市场拥有强大的顾客群，为顾客提供具有香浓川渝口味的米饭快餐，同时是大型购物中心及百货商场的配套项目。",
+      "industry": "",
+      "url": "http://xiangcunji.18zsb.cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/110-Country-Style-Cooking乡村基.png",
+      "logo_path": "company_logos/1045_110_Country_Style_Cooking乡村基.png"
+    },
+    {
+      "id": "1046",
+      "name": "111 Narwal云鲸智能",
+      "description": "云鲸创立于2016年，是一家立足家用机器人领域，致力于研发革命性科技产品的公司，被评为 2021 中国科技机器人企业50强，连续两年登上胡润全球独角兽企业榜。",
+      "industry": "",
+      "url": "https://www.narwal.com/index",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/111-Narwal云鲸智能.png",
+      "logo_path": "company_logos/1046_111_Narwal云鲸智能.png"
+    },
+    {
+      "id": "1047",
+      "name": "112 Genki Forest元气森林",
+      "description": "元气森林是一家致力于为美好生活创造健康好产品的中国食品饮料企业。公司成立于2016年，以“整合全球资源为全球用户创造有爱的好产品”为企业愿景，先后荣获国家高新技术企业等称号。目前，旗下拥有元气森林气泡水、燃茶、纤茶、满分果汁微气泡、外星人电解质水等系列产品， 现已覆盖全国超30个省、市、自治区，并出口美国、日本、新加坡等40多个国家和地区。",
+      "industry": "",
+      "url": "https://www.yuanqisenlin.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/112-Genki-Forest元气森林.png",
+      "logo_path": "company_logos/1047_112_Genki_Forest元气森林.png"
+    },
+    {
+      "id": "1048",
+      "name": "113 Zto中通快递",
+      "description": "中通快递是一家集快递、物流、电商、印务于一体的集团公司。",
+      "industry": "",
+      "url": "https://www.zto.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/11/113-ZTO中通快递.png",
+      "logo_path": "company_logos/1048_113_Zto中通快递.png"
+    },
+    {
+      "id": "1049",
+      "name": "114Ziroom自如",
+      "description": "自如是一家提供高品质租住产品与生活服务的科技公司。2011年成立后，自如连接并服务海量不同类型的业主和租客，已成长为中国长租行业的领导者。通过系统化、智能化、平台化的方式，自如赋能租住全产业链条，提升服务品质和运营效率，形成了美好居住产品、品质生活服务、智能家装家居三大板块。自如已布局北京、上海等10城，管理房屋数量约100万间，累计服务超50万业主，累计自如客500万人，未来亦将带领租住行业持续健康发展。",
+      "industry": "",
+      "url": "https://www.ziroom.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2022/12/114Ziroom自如.png",
+      "logo_path": "company_logos/1049_114Ziroom自如.png"
+    },
+    {
+      "id": "2327",
+      "name": "九号机器人",
+      "description": "九号公司以国际化视野立足全球市场，以「简化人和物的移动，让生活更加便捷和有趣」为使命，专注于推动智能短交通和机器人产品的创新和变革。公司成立于2012年，总部位于中国北京，在全球拥亚太、欧洲、美洲三大业务区域，在北京、常州、深圳、杭州、海南、首尔、阿姆斯特丹、巴黎、巴塞罗那、克雷菲尔德、伊斯坦布尔、西雅图、洛杉矶、波士顿、达拉斯、悉尼等地设有子公司及办事处，产品遍布全球100多个国家和地区。作为一家集研发、生产、销售、服务为一体的高新技术企业，九号公司累计获得全球性知识产权4148项，广泛应用于创新短交通出行、机器人、酷玩娱乐等多个领域，产品包含智能电动平衡车、智能电动滑板车、电动卡丁车、智能电动两轮车、全地形车、机甲战车、服务机器人以及智能共享滑板车等，满足用户多元化和个性化需求，持续推动行业发展。2020年10月29日，九号公司在科创板成功上市(证券简称九号公司，证券代码：689009),成为中国境内上市企业中「VIE+CDR第一股」",
+      "industry": "",
+      "url": "http://www.segwayrobotics.com",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2023/12/九号机器人.jpg",
+      "logo_path": "company_logos/2327_九号机器人.jpg"
+    },
+    {
+      "id": "2329",
+      "name": "天合光能",
+      "description": "天合光能股份有限公司（股票简称：天合光能；股票代码：688599）创立于1997年，主要业务包括光伏产品、光伏系统、智慧能源四大板块。光伏产品包括光伏组件的研发、生产和销售；光伏系统包括电站业务及系统产品业务;智慧能源主要由光伏发电及运维、储能智能解决方案、智能微网及多能系统的开发和销售等业务构成。以“打造天合主导的行业新生态，促进天合成为光储智慧能源领先者”为战略目标，致力于成为全球光储智慧能源解决方案的领导者，助力新型电力系统变革，创建美好零碳新世界。截至2023年第二季度，天合光能光伏组件全球累计出货量超150GW，相当于6.5个三峡水电站的装机量。",
+      "industry": "",
+      "url": "https://www.trinasolar.com/cn",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2023/12/天合光能.jpg",
+      "logo_path": "company_logos/2329_天合光能.jpg"
+    },
+    {
+      "id": "2333",
+      "name": "Klook 客路",
+      "description": "KLOOK是全球领先的旅行体验预订平台，提供350多个国家及地区的10万余种当地玩法与服务，包括景点折扣门票、一日游、户外活动、WiFi及当地交通。KLOOK用户覆盖全球100余个国家及地区，团队位于全球20个城市，包括港台、深圳、新加坡、吉隆坡、曼谷、首尔、迪拜等。",
+      "industry": "",
+      "url": "https://www.klook.cn/zh-CN/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2023/12/klook-客路.jpg",
+      "logo_path": "company_logos/2333_Klook_客路.jpg"
+    },
+    {
+      "id": "2339",
+      "name": "医联",
+      "description": "医联成立于2014年，是中国领先的互联网医院，获得了红杉中国、腾讯、中国生物制药等顶级资本的投资。围绕疾病预防、诊断、治疗、康复的全流程管理模式，医联致力于为患者提供更加有效、可及的优质医疗服务，打造线上线下的完整医疗服务闭环，努力实现“让全人类健康寿命延长一年”的使命。线上借助平台强大的医疗资源整合调度能力，已覆盖传染感染疾病、循环系统疾病、内分泌代谢疾病、自身免疫疾病、神经系统疾病、妇科疾病、泌尿生殖疾病、肿瘤、呼吸系统疾病、精神疾病等多个病种学科领域，并陆续推出多学科的疾病管理SOP，启动相关学科专家共识建设；线下依托未来医生的门店布局，拥有全科中心、专科中心、企业医务室、社康等多种业态，覆盖全国多个城市",
+      "industry": "",
+      "url": "https://www.medlinker.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2023/12/医联.jpg",
+      "logo_path": ""
+    },
+    {
+      "id": "2343",
+      "name": "健帆生物",
+      "description": "健帆生物科技集团股份有限公司创建于1989年，专业从事生物材料和高科技医疗器械的研发、生产及销售，是以血液净化产品为主营业务的A股创业板上市公司（股票代码：300529）。目前公司市值稳居我国医疗器械上市公司前列。未来，健帆将打造独有的血液净化设备、耗材、药品及保险、慢病管理、医疗服务等多位一体的血液净化全产业链，实现集团化、品牌化、多元化发展，为成为“世界一流的高科技医疗技术企业集团”的愿景奠定坚实的基础。",
+      "industry": "",
+      "url": "https://www.jafron.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2023/12/健帆生物.jpg",
+      "logo_path": ""
+    },
+    {
+      "id": "2345",
+      "name": "诺威健康",
+      "description": "Novotech是一家以亚太地区为中心的专业生物技术专业合同研究组织 (CRO)。Novotech以丰富的经验作为基础，其业务范围覆盖整个亚太地区，并扩展到北美和欧洲，为全球客户群提供全球临床开发支持。Novotech拥有超5,000 项临床项目经验，包括Ⅰ期至Ⅳ期临床试验。Novotech专注于服务在亚太、美国与欧洲等地进行临床试验的生物技术客户。Novotech目前在全球34个办公地点共拥有3000多名员工。作为生物技术专家，Novotech在多种治疗领域的先进与新型疗法方面，都拥有广泛的医学、科学、监管和运营专业知识，包括细胞和基因疗法、精准医学、基于RNA的疫苗和疗法、抗体偶联药物(ADC)、微生物组、放射性药物等。",
+      "industry": "",
+      "url": "https://novotech-cro.com/cn",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2023/12/诺威健康.jpg",
+      "logo_path": ""
+    },
+    {
+      "id": "2347",
+      "name": "亚心医疗调整尺寸",
+      "description": "香港亚洲医疗股份有限公司投资成立的亚洲医疗集团，经过24年的发展，已成为专注于心血管医疗服务市场的亚洲领先的医疗集团。体系内医疗机构含两家三甲医院 ，三级综合医院一家，集团自有及托管医院床位数1,823张。集团体系内医院包含集医疗、教育、科研、管理于一体的现代化三甲专科医院——武汉亚洲心脏病医院、新疆心脑血管病医院，三级综合性医院——亚心总医院以及香港嘉诺撒亚洲心脏中心、札幌心脏中心等5家医疗机构。同时，构建与多家医疗机构合作共建新格局，实现了优质医疗资源的广泛辐射。2010年10月，集团收购了新疆乌鲁木齐心脑血管病医院。2017年9月，投资成立香港嘉诺撒心脏中心；2018年7月投资收购日本札幌心脏病医院。2018年11月，在政府大力打造国家医疗中心的政策推动下，大型综合性现代三级医院亚心总医院正式开始运营，建筑面积24.0万平方米。是华中地区首家成为城市120急救网络成员的民营医院，并打造空地一体救援体系，成为湖北省急救中心武汉航空急救分中心。",
+      "industry": "",
+      "url": "https://www.wagh.com.cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2024/01/亚心医疗调整尺寸.jpg",
+      "logo_path": "company_logos/2347_亚心医疗调整尺寸.jpg"
+    },
+    {
+      "id": "2348",
+      "name": "兆维科技",
+      "description": "上海兆维科技发展有限公司成立于2001年，从成立至今，公司立足于核苷及核苷酸产品领域，致力于生产和销售修饰性核苷、核苷酸、亚磷酰胺基因单体、靶向示踪剂和生物酶等各个系列产品。多年来，公司凭借优质的产品质量、价格及服务和多家国内外药物公司、生物科技公司建立了长期合作关系，并不断推出核苷及核苷酸领域内的新产品。公司同时提供修饰性核苷、核苷酸、亚磷酰胺基因单体、荧光产品等多个领域内的客户定制服务，并通过不断的生产工艺改进，提升产品质量，优化客户服务，力求在最短的时间内帮助客户达到目标。",
+      "industry": "",
+      "url": "https://www.hongene.com/cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2023/12/兆维科技.jpg",
+      "logo_path": "company_logos/2348_兆维科技.jpg"
+    },
+    {
+      "id": "2354",
+      "name": "京东产发",
+      "description": "京东产发是一家基础设施物业管理服务商，专注于智能物流仓储及物流地产领域，提供基础设施资产管理与综合物业服务。",
+      "industry": "",
+      "url": "https://jdp.com.cn/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2023/12/京东产发.jpg",
+      "logo_path": "company_logos/2354_京东产发.jpg"
+    },
+    {
+      "id": "2356",
+      "name": "跨越速运",
+      "description": "跨越速运集团有限公司创建于2007年。拥有“国家AAAAA级物流企业”、“国家级高新技术企业”、“中国物流行业30强优秀品牌”、等荣誉称号。跨越速运始终坚持“大型科技化综合速运企业”的战略定位。面对市场多元化的需求，公司在以市场为导向、客户为中心，在高端信息网络管理系统为保障平台的基础上，率先推出三大时效产品：当天达、次日达、隔日达服务。除此之外，公司还推出同城当日、同城次日、陆运件，及生鲜速递、国际业务等特色服务模式。",
+      "industry": "",
+      "url": "https://www.ky-express.com/",
+      "logo_url": "https://www.hongshan.com/wp-content/uploads/sites/9/2023/12/跨越速运.jpg",
+      "logo_path": ""
+    }
+  ],
+  "timestamp": "2025-04-09 23:55:44"
+}
