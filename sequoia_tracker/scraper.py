@@ -303,6 +303,9 @@ def scrape_hongshan(start_id=None, end_id=None, explore_additional=True, resume=
             name_cell = row.find("th", class_="company-listing__head")
             company_name = name_cell.get_text(strip=True) if name_cell else ""
             
+            # 清理公司名称，去除前面的数字编号（如 "107 Saturnbird" -> "Saturnbird"）
+            company_name = re.sub(r'^(\d+\s+)', '', company_name)
+            
             # 提取公司简介 - 在td单元格中，class包含company-listing__text
             desc_cell = row.find("td", class_="company-listing__text")
             description = desc_cell.get_text(strip=True) if desc_cell else ""
@@ -434,6 +437,8 @@ def scrape_hongshan(start_id=None, end_id=None, explore_additional=True, resume=
                     logo_img = img_soup.find("img")
                     if logo_img and logo_img.has_attr("alt") and logo_img["alt"] != "Company Name":
                         company_name = logo_img["alt"]
+                        # 清理公司名称，去除前面的数字编号
+                        company_name = re.sub(r'^(\d+\s+)', '', company_name)
                 
                 # 尝试从logo URL提取名称
                 if not company_name and "logo_url" in company_detail:
@@ -441,6 +446,8 @@ def scrape_hongshan(start_id=None, end_id=None, explore_additional=True, resume=
                     name_match = re.search(r'/([^/]+)\.[^.]+$', logo_url)
                     if name_match:
                         company_name = name_match.group(1).replace('-', ' ').title()
+                        # 清理公司名称，去除前面的数字编号
+                        company_name = re.sub(r'^(\d+\s+)', '', company_name)
                 
                 if not company_name:
                     company_name = f"未命名公司_{test_id}"
@@ -534,6 +541,9 @@ def scrape_hsgcap():
             # 提取公司名称 - 在th单元格中，class包含company-listing__head
             name_cell = parent_row.find("th", class_="company-listing__head")
             name = name_cell.get_text(strip=True) if name_cell else ""
+            
+            # 清理公司名称，去除前面的数字编号（如 "107 Saturnbird" -> "Saturnbird"）
+            name = re.sub(r'^(\d+\s+)', '', name)
             
             # 提取公司简介 - 在td单元格中，class包含company-listing__text
             desc_cell = parent_row.find("td", class_="company-listing__text")
